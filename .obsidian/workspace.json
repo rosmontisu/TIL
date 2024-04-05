@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "old/Git/temp.md",
+                "file": "2024/4월/2024-04-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "old/Git/temp.md",
+                "file": "2024/4월/2024-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "old/Git/temp.md",
+                "file": "2024/4월/2024-04-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "old/Git/temp.md"
+                "file": "2024/4월/2024-04-05.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
+    "old/Git/temp.md",
     "old/Linux/명령어.md",
     "old/resource/cpp.pdf",
     "old/resource/temp.md",

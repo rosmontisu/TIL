@@ -1,6 +1,3 @@
-# 임시
-
-
 
 
 git pull origin - merge o   

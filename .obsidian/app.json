@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "./resource/imgs",
-  "trashOption": "local"
+  "trashOption": "local",
+  "spellcheck": false
 }

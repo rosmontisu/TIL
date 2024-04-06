@@ -120,7 +120,15 @@
             }
           },
           {
-            "id": "2066c98b8e87f82c",
+            "id": "f427dcfae3cd4c91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5b13c7248377e96",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,15 +138,15 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -149,12 +157,12 @@
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
-    "2024/4월/resource/imgs/Pasted image 20240406154906.png",
+    "2024/4월/2024-04-05.md",
     "2024/4월/resource/imgs/Pasted image 20240406154912.png",
+    "2024/4월/resource/imgs/Pasted image 20240406154906.png",
     "2024/4월/2024-04-06.md",
     "2024/4월/resource/imgs",
     "old/resource/cpp.pdf",
-    "2024/4월/2024-04-05.md",
     "old/Vim/config.md",
     "2024/4월/resource",
     "Pasted image 20240406153207.png",

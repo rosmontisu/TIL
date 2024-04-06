@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "swExpertAcademy/README.md",
+                "file": "2024/4월/2024-04-05.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "swExpertAcademy/README.md",
+                "file": "2024/4월/2024-04-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "swExpertAcademy/README.md",
+                "file": "2024/4월/2024-04-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "swExpertAcademy/README.md"
+                "file": "2024/4월/2024-04-05.md"
               }
             }
           }
@@ -150,15 +150,27 @@
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
     "2024/4월/2024-04-06.md",
-    "swExpertAcademy/README.md",
-    "swExpertAcademy",
     "2024/4월/2024-04-05.md",
-    "README.md",
-    "old/Git/temp.md",
-    "old/Linux/명령어.md",
-    "old/resource/cpp.pdf",
-    "old/resource/temp.md",
+    "Pasted image 20240406153237.png",
+    "Pasted image 20240406153207.png",
     "old/Vim/config.md",
+    "old/resource/temp.md",
+    "old/resource/cpp.pdf",
+    "old/Linux/명령어.md",
+    "old/Git/temp.md",
+    "old/swExpertAcademy/README.md",
+    "README.md",
+    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
+    "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
+    "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
+    "swExpertAcademy/tuto/1_read.md",
+    "swExpertAcademy/tuto/array 1.cpp",
+    "swExpertAcademy/tuto/vector2_loop.cpp",
+    "swExpertAcademy/tuto/vector1.cpp",
+    "swExpertAcademy/tuto/array.cpp",
+    "swExpertAcademy/tuto",
+    "old/swExpertAcademy/self_study_book_1",
+    "old/swExpertAcademy",
     "2024/4월/무제 파일.canvas",
     "2024/4월/2024-04-02.md",
     "2024/4월",

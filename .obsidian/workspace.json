@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-05.md",
-                "mode": "preview",
-                "source": true
+                "file": "2024/4월/2024-04-06.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-05.md",
+                "file": "2024/4월/2024-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-05.md",
+                "file": "2024/4월/2024-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-05.md"
+                "file": "2024/4월/2024-04-06.md"
               }
             }
           }
@@ -139,20 +139,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
-    "2024/4월/2024-04-06.md",
-    "2024/4월/2024-04-05.md",
-    "Pasted image 20240406153237.png",
+    "2024/4월/resource",
     "Pasted image 20240406153207.png",
+    "Pasted image 20240406153237.png",
+    "2024/4월/2024-04-05.md",
+    "2024/4월/2024-04-06.md",
     "old/Vim/config.md",
     "old/resource/temp.md",
     "old/resource/cpp.pdf",

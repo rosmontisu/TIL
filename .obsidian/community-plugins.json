@@ -1,4 +1,6 @@
 [
   "obsidian-wakatime",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-discordrpc",
+  "discord-message-formatter"
 ]

@@ -61,7 +61,8 @@ void set_example() {
 
 
 #### STL - multiset
-- set 과 다르게 원소의 중복이 허용된다.
+> set과 다른 몇가지 특징들이 있습니다
+- 원소의 중복이 허용된다.
 - erase(n) : 모든 n을 지웁니다.
 - find(n) : n 원소중 무작위로 반환합니다.
 ```cpp

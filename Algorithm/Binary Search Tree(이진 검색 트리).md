@@ -109,4 +109,4 @@ void map_example() {
 ```
 
 ## 주의점
-- lower_bound(), upper_bound() 등의 특성이 필요할경우
+- lower/upper_bound(), prev/next() 등이 필요하다면 꼭 STL set/map 을 이용해야한다.

@@ -105,11 +105,12 @@ void map_example() {
 ```
 
 ## 주의점
-- end() 함수는 마지막 원소 다음 주소의 iterator를 반환한다. 사용시 --end()를 고려하자!
-- lower/upper_bound(), prev/next() 등이 필요하다면 꼭 STL set/map 을 이용해야한다.
-- 이진 검색 트리의 연산은 같은 O(logN) 중에서도 상당히 느리기때문에, n=100만 이상인 연산을 수행할 경우 시간제한 1초는 부담된다.
+- end() 함수는 마지막 원소 다음 주소의 iterator를 반환한다. 
+  사용시 --end()/prev(end()) 등을 고려해보자
+- 이진 검색 트리의 연산은 같은 O(logN) 중에서도 상당히 느리기때문에, 
+  n=100만 이상인 연산을 수행할 경우 시간제한 1초는 부담된다.
 ## 연습문제
-#### [boj7662:이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+#### [boj 7662 : 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
 - 최소값과 최대값만 수정하면 되는 문제입니다.
 - 중복되는 원소가 존재하므로, STL multiset을 이용해서 풀이
 ##### 내 풀이
@@ -158,3 +159,4 @@ int main(void)
 	}
 }
 ```
+#### [boj 1202 : 보석 도둑](https://www.acmicpc.net/problem/1202)

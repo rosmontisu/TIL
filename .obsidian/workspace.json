@@ -11,12 +11,8 @@
             "id": "742df0f84ec3d19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +157,8 @@
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
-    "2024/4월/2024-04-08.md",
     "Algorithm/Binary Search Tree(이진 검색 트리).md",
+    "2024/4월/2024-04-08.md",
     "CI-CD/무제 파일.md",
     "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-05.md",

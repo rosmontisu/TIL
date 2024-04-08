@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -121,14 +120,6 @@
             }
           },
           {
-            "id": "f427dcfae3cd4c91",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "c5b13c7248377e96",
             "type": "leaf",
             "state": {
@@ -136,6 +127,22 @@
               "state": {
                 "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
               }
+            }
+          },
+          {
+            "id": "39ee9a052bb84627",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f427dcfae3cd4c91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -157,8 +164,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "742df0f84ec3d19d",
+  "active": "192218159e234ab1",
   "lastOpenFiles": [
+    "DevOps",
     "2024/4월/2024-04-08.md",
     "Algorithm/Binary Search Tree(이진 검색 트리).md",
     "[.md",

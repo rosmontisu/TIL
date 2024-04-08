@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

@@ -61,10 +61,29 @@ void set_example() {
 
 
 #### STL - multiset
+- set 과 다르게 원소의 중복이 허용된다.
+- erase(n) : 모든 n을 지웁니다.
+- find(n) : n 원소중 무작위로 반환합니다.
 ```cpp
 void multiset_example() {
 	multiset<int> ms;
-	ms.insert(-10); 
+	ms.insert(-10); ms.insert(100); ms.insert(15); // { -10, 15, 100 }
+	ms.insert(-10); ms.insert(15); // { -10, -10, 15, 15, 100 }
+	cout << ms.size() << '\n'; // 5
+	for (auto e : ms) cout << e << ' ';
+	cout << '\n';
+	cout << ms.erase(15) << '\n'; // { -10, -10, 100 }, 15가 번부 지워진다.
+	ms.erase(ms.find(-10)); // { -10, 100 }, 1개만 찾아서 지운다.
+	ms.insert(100); // { -10, 100, 100 }
+	cout << ms.count(100) << '\n'; // 2
+
+	auto it1 = ms.begin(); // { -10(<- it1), 100, 100 }
+	auto it2 = ms.upper_bound(100); // { -10, 100, 100 } (<- it2)
+	auto it3 = ms.find(100); // { -10, 100(<- it3), 100 }, 가장 좌측 100을 찾아준다
+
+	cout << *it1 << '\n'; // -10
+	cout << (it2 == ms.end()) << '\n'; // 1(true)
+	cout << *it3 << '\n'; // 100
 }
 ```
 #### STL - map

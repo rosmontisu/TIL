@@ -59,3 +59,12 @@ void set_example() {
 
 
 
+
+#### STL - multiset
+```cpp
+void multiset_example() {
+	multiset<int> ms;
+	ms.insert(-10); 
+}
+```
+#### STL - map

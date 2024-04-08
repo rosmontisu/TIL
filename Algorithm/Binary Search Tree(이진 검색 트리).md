@@ -56,10 +56,6 @@ void set_example() {
 	cout << *it4 << '\n'; // 15
 }
 ```
-
-
-
-
 #### STL - multiset
 > set과 다른 몇가지 특징들이 있습니다
 - 원소의 중복이 허용된다.
@@ -113,3 +109,52 @@ void map_example() {
 - lower/upper_bound(), prev/next() 등이 필요하다면 꼭 STL set/map 을 이용해야한다.
 - 이진 검색 트리의 연산은 같은 O(logN) 중에서도 상당히 느리기때문에, n=100만 이상인 연산을 수행할 경우 시간제한 1초는 부담된다.
 ## 연습문제
+#### [boj7662:이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+- 최소값과 최대값만 수정하면 되는 문제입니다.
+- 중복되는 원소가 존재하므로, STL multiset을 이용해서 풀이
+##### 내 풀이
+```cpp
+#include <iostream>
+#include <algorithm>
+#include <map>
+#include <set>
+
+using namespace std;
+
+int main(void)
+{
+	ios::sync_with_stdio(false);
+	cin.tie(0);
+	int t; cin >> t;
+	while (t--)
+	{
+		multiset<int> ms;
+		int k; cin >> k;
+		while (k--)
+		{
+			// D 1	: 최댓값 삭제
+			// D -1 : 최솟값 삭제
+			// I n	: insert n
+			char c; int num;
+			cin >> c >> num;
+			if (c == 'D' && ms.size() > 0 && num == 1) {
+				multiset<int>::iterator itr = --ms.end();
+				ms.erase(itr);
+			}
+			else if (c == 'D' && ms.size() > 0) {
+				multiset<int>::iterator itr = ms.begin();
+				ms.erase(itr);
+			}
+			else if (c == 'I') ms.insert(num);
+		}
+
+		if (ms.size() > 0)
+		{
+			auto it1 = ms.begin();
+			auto it2 = --ms.end();
+			cout << *it2 << ' ' << *it1 << '\n';
+		}
+		else cout << "EMPTY\n";
+	}
+}
+```

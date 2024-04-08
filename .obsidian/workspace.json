@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "file": "CI-CD/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "file": "CI-CD/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "file": "CI-CD/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
+                "file": "CI-CD/무제 파일.md"
               }
             }
           },
@@ -164,15 +164,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "192218159e234ab1",
+  "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
-    "DevOps",
-    "2024/4월/2024-04-08.md",
     "Algorithm/Binary Search Tree(이진 검색 트리).md",
-    "[.md",
+    "CI-CD/무제 파일.md",
+    "2024/4월/2024-04-08.md",
     "2024/4월/2024-04-06.md",
-    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
     "2024/4월/2024-04-05.md",
+    "CI-CD",
+    "[.md",
+    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
     "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
     "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
     "Algorithm",
@@ -195,7 +196,6 @@
     "swExpertAcademy/tuto/vector1.cpp",
     "swExpertAcademy/tuto/array.cpp",
     "swExpertAcademy/tuto",
-    "old/swExpertAcademy/self_study_book_1",
     "2024/4월/무제 파일.canvas",
     "2024/4월/2024-04-02.md",
     "무제 파일.md"

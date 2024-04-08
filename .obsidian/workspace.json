@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-05.md",
+                "file": "2024/4월/2024-04-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-05.md",
+                "file": "2024/4월/2024-04-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-05.md",
+                "file": "2024/4월/2024-04-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,25 +120,33 @@
             }
           },
           {
-            "id": "2066c98b8e87f82c",
+            "id": "f427dcfae3cd4c91",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5b13c7248377e96",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-05.md"
+                "file": "2024/4월/2024-04-06.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -149,17 +157,34 @@
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
-    "old/Git/temp.md",
-    "old/Linux/명령어.md",
-    "old/resource/cpp.pdf",
-    "old/resource/temp.md",
-    "old/Vim/config.md",
     "2024/4월/2024-04-05.md",
+    "2024/4월/resource/imgs/Pasted image 20240406154912.png",
+    "2024/4월/resource/imgs/Pasted image 20240406154906.png",
+    "2024/4월/2024-04-06.md",
+    "2024/4월/resource/imgs",
+    "old/resource/cpp.pdf",
+    "old/Vim/config.md",
+    "2024/4월/resource",
+    "Pasted image 20240406153207.png",
+    "Pasted image 20240406153237.png",
+    "old/resource/temp.md",
+    "old/Linux/명령어.md",
+    "old/Git/temp.md",
+    "old/swExpertAcademy/README.md",
+    "README.md",
+    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
+    "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
+    "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
+    "swExpertAcademy/tuto/1_read.md",
+    "swExpertAcademy/tuto/array 1.cpp",
+    "swExpertAcademy/tuto/vector2_loop.cpp",
+    "swExpertAcademy/tuto/vector1.cpp",
+    "swExpertAcademy/tuto/array.cpp",
+    "swExpertAcademy/tuto",
+    "old/swExpertAcademy/self_study_book_1",
+    "old/swExpertAcademy",
     "2024/4월/무제 파일.canvas",
     "2024/4월/2024-04-02.md",
-    "2024/4월",
-    "2024",
-    "README.md",
     "무제 파일.md"
   ]
 }

@@ -1,4 +1,8 @@
 [
   "obsidian-wakatime",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-discordrpc",
+  "url-into-selection",
+  "calendar",
+  "table-editor-obsidian"
 ]

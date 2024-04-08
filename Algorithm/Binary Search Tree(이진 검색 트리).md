@@ -88,7 +88,7 @@ void multiset_example() {
 }
 ```
 #### STL - map
-> 
+> key : value 구조이다
 ```cpp
 void map_example() {
 	map<string, int> m;

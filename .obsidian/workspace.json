@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI-CD/무제 파일.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CI-CD/무제 파일.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CI-CD/무제 파일.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CI-CD/무제 파일.md"
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
+    "2024/4월/2024-04-08.md",
     "Algorithm/Binary Search Tree(이진 검색 트리).md",
     "CI-CD/무제 파일.md",
-    "2024/4월/2024-04-08.md",
     "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-05.md",
     "CI-CD",

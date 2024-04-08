@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-08.md",
-                "mode": "source",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-08.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-08.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-08.md"
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
-    "Algorithm/Binary Search Tree(이진 검색 트리).md",
     "2024/4월/2024-04-08.md",
+    "Algorithm/Binary Search Tree(이진 검색 트리).md",
     "[.md",
     "2024/4월/2024-04-06.md",
     "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-08.md",
-                "mode": "preview",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-08.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-08.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-08.md"
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
               }
             }
           }
@@ -157,9 +157,14 @@
   },
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
-    "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-05.md",
+    "Algorithm/Binary Search Tree(이진 검색 트리).md",
+    "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
+    "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
+    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
     "2024/4월/2024-04-08.md",
+    "Algorithm",
+    "2024/4월/2024-04-06.md",
     "2024/4월/resource/imgs/Pasted image 20240406154912.png",
     "2024/4월/resource/imgs/Pasted image 20240406154906.png",
     "2024/4월/resource/imgs",
@@ -173,9 +178,6 @@
     "old/Git/temp.md",
     "old/swExpertAcademy/README.md",
     "README.md",
-    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
-    "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
-    "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
     "swExpertAcademy/tuto/1_read.md",
     "swExpertAcademy/tuto/array 1.cpp",
     "swExpertAcademy/tuto/vector2_loop.cpp",
@@ -183,7 +185,6 @@
     "swExpertAcademy/tuto/array.cpp",
     "swExpertAcademy/tuto",
     "old/swExpertAcademy/self_study_book_1",
-    "old/swExpertAcademy",
     "2024/4월/무제 파일.canvas",
     "2024/4월/2024-04-02.md",
     "무제 파일.md"

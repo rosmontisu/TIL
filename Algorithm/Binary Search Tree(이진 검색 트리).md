@@ -17,7 +17,7 @@
 - 구현난이도 : AVL < Red Black
 - 성능 : AVL < Red Black
 	 
-#### STL
+## STL
 - set, multiset, map 3가지가 구현되어있다.
 - 직접 예제 코드를 작성하고, 분석해보자. ([예제 출처](https://blog.encrypted.gg/1013))
 #### STL - set
@@ -107,3 +107,6 @@ void map_example() {
 	cout << it1->first << ' ' << it1->second << '\n'; // gogo 165 (key : value)
 }
 ```
+
+## 주의점
+- lower_bound(), upper_bound() 등의 특성이 필요할경우

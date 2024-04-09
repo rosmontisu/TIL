@@ -11,8 +11,12 @@
             "id": "742df0f84ec3d19d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024/4월/2024-04-09.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024/4월/2024-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024/4월/2024-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024/4월/2024-04-09.md"
+              }
             }
           },
           {
@@ -158,6 +167,7 @@
   "active": "742df0f84ec3d19d",
   "lastOpenFiles": [
     "Algorithm/Binary Search Tree(이진 검색 트리).md",
+    "2024/4월/2024-04-09.md",
     "2024/4월/2024-04-08.md",
     "CI-CD/무제 파일.md",
     "2024/4월/2024-04-06.md",

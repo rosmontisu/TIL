@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
-                "mode": "preview",
+                "file": "2024/4월/2024-04-09.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "file": "2024/4월/2024-04-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "file": "2024/4월/2024-04-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
+                "file": "2024/4월/2024-04-09.md"
               }
             }
           },
@@ -165,11 +165,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "192218159e234ab1",
+  "active": "e03caaa35abc9496",
   "lastOpenFiles": [
+    "Algorithm/Binary Search Tree(이진 검색 트리).md",
     "2024/4월/2024-04-08.md",
     "2024/4월/2024-04-09.md",
-    "Algorithm/Binary Search Tree(이진 검색 트리).md",
     "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",

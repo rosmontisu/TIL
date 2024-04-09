@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c9214e1504ab184e",
+        "id": "8e408ecc4f9cfce5",
         "type": "tabs",
         "children": [
           {
-            "id": "742df0f84ec3d19d",
+            "id": "e03caaa35abc9496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-09.md",
-                "mode": "source",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-09.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-09.md",
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-09.md"
+                "file": "Algorithm/Binary Search Tree(이진 검색 트리).md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,19 +165,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "742df0f84ec3d19d",
+  "active": "e03caaa35abc9496",
   "lastOpenFiles": [
-    "Algorithm/Binary Search Tree(이진 검색 트리).md",
     "2024/4월/2024-04-09.md",
     "2024/4월/2024-04-08.md",
+    "Algorithm/Binary Search Tree(이진 검색 트리).md",
+    "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
+    "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
+    "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
+    "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",
+    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
+    "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
+    "old/swExpertAcademy/README.md",
     "CI-CD/무제 파일.md",
     "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-05.md",
     "CI-CD",
     "[.md",
-    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
-    "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
-    "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
     "Algorithm",
     "2024/4월/resource/imgs/Pasted image 20240406154912.png",
     "2024/4월/resource/imgs/Pasted image 20240406154906.png",
@@ -189,7 +194,6 @@
     "old/resource/temp.md",
     "old/Linux/명령어.md",
     "old/Git/temp.md",
-    "old/swExpertAcademy/README.md",
     "README.md",
     "swExpertAcademy/tuto/1_read.md",
     "swExpertAcademy/tuto/array 1.cpp",

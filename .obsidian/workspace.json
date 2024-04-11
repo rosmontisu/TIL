@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-11.md",
+                "file": "Algorithm/우선순위 큐.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-11.md",
+                "file": "Algorithm/우선순위 큐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-11.md",
+                "file": "Algorithm/우선순위 큐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-11.md"
+                "file": "Algorithm/우선순위 큐.md"
               }
             }
           },
@@ -166,10 +167,11 @@
   },
   "active": "e03caaa35abc9496",
   "lastOpenFiles": [
-    "2024/4월/2024-04-09.md",
-    "2024/4월/2024-04-11.md",
-    "2024/4월/2024-04-08.md",
     "Algorithm/Binary Search Tree(이진 검색 트리).md",
+    "Algorithm/우선순위 큐.md",
+    "2024/4월/2024-04-11.md",
+    "2024/4월/2024-04-09.md",
+    "2024/4월/2024-04-08.md",
     "old/swExpertAcademy/self_study_book_1/2_baby_gin_game.md",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",

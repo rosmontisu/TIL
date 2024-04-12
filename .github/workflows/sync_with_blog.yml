@@ -2,8 +2,10 @@ name: Sync Markdown Posts
 
 on:
   push:
+    branches:
+      - main
     paths:
-      - '2024/4월/*.md'
+      - 'TIL/**'
 
 jobs:
   sync_posts:
@@ -27,14 +29,20 @@ jobs:
         pip install PyGithub
 
     - name: Rename and move the Markdown file
-      run: python rename_and_move.py
+      run: python scripts/rename_and_move.py
 
-    - name: Commit files to myProject.github.io
-      uses: EndBug/add-and-commit@v7
+    - name: Checkout myProject.github.io repository
+      uses: actions/checkout@v2
       with:
-        author_name: hepari
-        author_email: rosmontisu@gmail.com
-        message: 'Automated commit from myTil to blog'
         repository: 'rosmontisu/rosmontisu.github.io'
         token: ${{ secrets.GITHUB_TOKEN }}
-        add: '_posts/*'
+        path: 'blog'
+
+    - name: Commit files to myProject.github.io
+      run: |
+        cd blog
+        git config --local user.email "rosmontisu@gmail.com"
+        git config --local user.name "hepari"
+        git add _posts/*
+        git commit -m 'Automated commit from myTil to blog'
+        git push

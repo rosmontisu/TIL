@@ -2,9 +2,6 @@ from github import Github
 import os
 import datetime
 
-# 인증
-g = Github(os.getenv('GITHUB_TOKEN'))
-
 # 오늘 날짜를 기준으로 경로 및 파일 이름 정의
 today = datetime.datetime.now()
 year = today.strftime('%Y')
@@ -18,7 +15,12 @@ month_names = {
     '09': '9월', '10': '10월', '11': '11월', '12': '12월'
 }
 
-# source_path 설정
+# 인증 및 저장소 접근
+g = Github(os.getenv('MY_GITHUB_TOKEN'))
+source_repo = g.get_repo("rosmontisu/TIL")
+target_repo = g.get_repo("rosmontisu/rosmontisu.github.io")
+
+# 파일 경로 설정
 source_path = f'TIL/{year}/{month_names[month]}/{year}-{month}-{day}.md'
 target_path = f'_posts/{year}-{month}-{day}-til.md'
 

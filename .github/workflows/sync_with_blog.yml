@@ -1,4 +1,4 @@
-name: Sync Markdown Posts
+name: TIL to my blog
 
 on:
   push:

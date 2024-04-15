@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/우선순위 큐.md",
-                "mode": "preview",
+                "file": "Algorithm/Priority Queue(우선순위 큐).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.5
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/우선순위 큐.md",
+                "file": "Algorithm/Priority Queue(우선순위 큐).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/우선순위 큐.md",
+                "file": "Algorithm/Priority Queue(우선순위 큐).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/우선순위 큐.md"
+                "file": "Algorithm/Priority Queue(우선순위 큐).md"
               }
             }
           },
@@ -167,7 +167,7 @@
   "active": "e03caaa35abc9496",
   "lastOpenFiles": [
     "Algorithm/Binary Search Tree(이진 검색 트리).md",
-    "Algorithm/우선순위 큐.md",
+    "Algorithm/Priority Queue(우선순위 큐).md",
     "2024/4월/2024-04-08.md",
     "2024/4월/2024-04-09.md",
     "2024/4월/2024-04-11.md",

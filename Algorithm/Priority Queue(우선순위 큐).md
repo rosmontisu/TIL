@@ -5,7 +5,12 @@
 2. 우선순위가 가장 높은 원소의 확인 O(1)
 3. 우선순위가 가장 높은 원소의 제거 O(logN)
 ## 구현 
-백준에 [최소힙](https://www.acmicpc.net/problem/1927)문제를 풀면서 직접 구현해보자
+> 배열을 이용한 구현이 가능하다.
+
+백준에 [최소힙](https://www.acmicpc.net/problem/1927)문제를 풀면서 아래의 연산을 수행해보자.
+- insert(x)
+- top()
+- pop()
 ```cpp
 #include <iostream>
 using namespace std;

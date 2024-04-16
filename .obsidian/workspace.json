@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/WPF/기본 GUI.md",
+                "file": "2024/4월/2024-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/WPF/기본 GUI.md",
+                "file": "2024/4월/2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/WPF/기본 GUI.md",
+                "file": "2024/4월/2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/WPF/기본 GUI.md"
+                "file": "2024/4월/2024-04-16.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "e03caaa35abc9496",
   "lastOpenFiles": [
-    "2024/4월/2024-04-16.md",
     "Csharp/WPF/기본 GUI.md",
+    "2024/4월/2024-04-16.md",
     "SmartRosmontis/rosmontis 외부 링크.md",
     "README.md",
     "2024/4월/2024-04-05.md",

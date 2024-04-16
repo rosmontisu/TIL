@@ -25,7 +25,9 @@ bot - 80(http)
 unity http - 3000
 maa - 3001
 web - 3005
-(putty), unity ws - 8080
+(putty), unity ws, fz - 8080
+->
+sftp://45.119.146.143:8080
 #### linux
 nohup 으로 터미널이 끊겨도 돌아가게 가능(데몬에서 돌리기)    
 & 로 백드라운드에서 돌아가게 가능    

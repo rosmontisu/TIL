@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-16.md",
+                "file": "Csharp/WPF/기본 GUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-16.md",
+                "file": "Csharp/WPF/기본 GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-16.md",
+                "file": "Csharp/WPF/기본 GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-16.md"
+                "file": "Csharp/WPF/기본 GUI.md"
               }
             }
           },
@@ -164,15 +164,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "192218159e234ab1",
+  "active": "e03caaa35abc9496",
   "lastOpenFiles": [
-    "Csharp-WPF",
+    "2024/4월/2024-04-16.md",
+    "Csharp/WPF/기본 GUI.md",
+    "Csharp/WPF",
+    "Csharp",
     "2024/4월/2024-04-05.md",
     "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-11.md",
     "Algorithm/Priority Queue(우선순위 큐).md",
     "2024/4월/2024-04-12.md",
-    "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-99.md",
     "SmartRosmontis/rosmontis 외부 링크.md",
     "2024/4월/2024-04-08.md",
@@ -206,8 +208,6 @@
     "swExpertAcademy/tuto/1_read.md",
     "swExpertAcademy/tuto/array 1.cpp",
     "swExpertAcademy/tuto/vector2_loop.cpp",
-    "swExpertAcademy/tuto/vector1.cpp",
-    "swExpertAcademy/tuto/array.cpp",
     "2024/4월/무제 파일.canvas",
     "2024/4월/2024-04-02.md"
   ]

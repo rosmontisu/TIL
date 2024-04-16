@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-16.md",
+                "file": "SmartRosmontis/rosmontis 외부 링크.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-16.md",
+                "file": "SmartRosmontis/rosmontis 외부 링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-16.md",
+                "file": "SmartRosmontis/rosmontis 외부 링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-16.md"
+                "file": "SmartRosmontis/rosmontis 외부 링크.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   },
   "active": "e03caaa35abc9496",
   "lastOpenFiles": [
-    "Csharp/WPF/기본 GUI.md",
-    "2024/4월/2024-04-16.md",
-    "SmartRosmontis/rosmontis 외부 링크.md",
+    "old/swExpertAcademy/README.md",
     "README.md",
+    "2024/4월/2024-04-16.md",
+    "Csharp/WPF/기본 GUI.md",
+    "SmartRosmontis/rosmontis 외부 링크.md",
     "2024/4월/2024-04-05.md",
     "Csharp/WPF",
     "Csharp",
@@ -189,7 +190,6 @@
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",
     "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
     "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
-    "old/swExpertAcademy/README.md",
     "CI-CD/무제 파일.md",
     "CI-CD",
     "[.md",

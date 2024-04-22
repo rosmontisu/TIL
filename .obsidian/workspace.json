@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithm/Graph.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -166,9 +166,16 @@
   },
   "active": "e03caaa35abc9496",
   "lastOpenFiles": [
-    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/Graph.md",
+    "Algorithm/resource/imgs/Pasted image 20240422135440.png",
+    "Algorithm/resource/imgs/Pasted image 20240422135431.png",
+    "Algorithm/resource/imgs/Pasted image 20240422135347.png",
     "Algorithm/Priority Queue(우선순위 큐).md",
+    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
+    "Algorithm/resource/imgs/Pasted image 20240422135201.png",
+    "Algorithm/Graph.md",
+    "Algorithm/resource/imgs/Pasted image 20240422135216.png",
+    "Algorithm/resource/imgs",
+    "Algorithm/resource",
     "Csharp/WPF/기본 GUI.md",
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-22.md",
@@ -206,9 +213,6 @@
     "Pasted image 20240406153237.png",
     "old/resource/temp.md",
     "old/Linux/명령어.md",
-    "old/Git/temp.md",
-    "swExpertAcademy/tuto/array 1.cpp",
-    "swExpertAcademy/tuto/vector2_loop.cpp",
     "2024/4월/무제 파일.canvas"
   ]
 }

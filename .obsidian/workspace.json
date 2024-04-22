@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithm/Graph.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -166,13 +166,13 @@
   },
   "active": "e03caaa35abc9496",
   "lastOpenFiles": [
-    "Algorithm/resource/imgs/Pasted image 20240422135440.png",
     "Algorithm/resource/imgs/Pasted image 20240422135431.png",
+    "Algorithm/Graph.md",
+    "Algorithm/resource/imgs/Pasted image 20240422135440.png",
     "Algorithm/resource/imgs/Pasted image 20240422135347.png",
     "Algorithm/Priority Queue(우선순위 큐).md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/resource/imgs/Pasted image 20240422135201.png",
-    "Algorithm/Graph.md",
     "Algorithm/resource/imgs/Pasted image 20240422135216.png",
     "Algorithm/resource/imgs",
     "Algorithm/resource",

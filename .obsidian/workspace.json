@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithm/Graph (그래프).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -164,7 +164,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "192218159e234ab1",
+  "active": "e03caaa35abc9496",
   "lastOpenFiles": [
     "Algorithm/BOJ",
     "CI-CD/무제 파일.md",

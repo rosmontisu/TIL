@@ -13,6 +13,7 @@
 
 ## BFS
 #### 구현
+
 - 연결 그래프에서의 순회
 ```cpp
 vector<int> adj[10]; // adjacency
@@ -37,6 +38,7 @@ void bfs()
 }
 ```
 
+    
 - 1번 정점과의 거리 - dist
 ```cpp
 vector<int> adj[10]; // adjacency
@@ -60,6 +62,7 @@ void bfs()
 	}
 }
 ```
+
 
 - 연결 그래프가 아닐때 { 1, 2, 3, 4 }, { 5, 6 }
 ```cpp
@@ -91,6 +94,7 @@ void bfs()
 ```
 
 ## DFS
+> BFS에서는 큐를 사용했지만, DFS에서는 스택을 사용한다. 또한, 재귀를 이용하여 구현도 가능하다.
 #### 구현
 - 연결 그래프 순회, 비재귀
 ```cpp
@@ -98,9 +102,40 @@ vector<int> adj[10];
 bool vis[10];
 void dfs()
 {
-	
+	stack<int> s;
+	s.push(1);
+	vis[1] = true;
+	while (!s.empty())
+	{
+		int cur = s.top();
+		s.pop();
+		cout << cur << ' ';
+		for (auto nxt : adj[cur])
+		{
+			if (vis[nxt]) continue;
+			s.push(nxt);
+			vis[nxt] = true;
+		}
+	}
 }
 ```
+
+- 연결 그래프 순회, 재귀
+```cpp
+vector<int> adj[10];
+bool vis[10];
+void dfs(int cur)
+{
+	vis[cur] = true;
+	cout << cur << ' ';
+	for (auto nxt : adj[cur])
+	{
+		if (vis[nxt]) continue;
+		dfs(nxt);
+	}
+}
+```
+
 
 
 

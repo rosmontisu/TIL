@@ -63,7 +63,35 @@ void bfs()
 
 - 연결 그래프가 아닐때 { 1, 2, 3, 4 }, { 5, 6 }
 ```cpp
-
+vector<int> adj[10]; // adjacency
+bool vis[10];
+int v = 9; // vertax
+void bfs()
+{
+	queue<int> q;
+	for (int i = 1; i <= v; i++)
+	{
+		if (vis[i]) continue;
+		q.push(i);
+		vis[i] = true;
+		while (!q.empty())
+		{
+			int cur = q.front();
+			q.pop();
+			cout << cur << ' ';
+			for (auto nxt : adj[cur])
+			{
+				if (vis[nxt]) continue;
+				q.push(nxt);
+				vis[nxt] = true;
+			}
+		}
+	}
+}
 ```
+
+## DFS
+#### 구현
+
 
 

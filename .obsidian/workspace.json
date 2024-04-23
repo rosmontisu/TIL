@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SmartRosmontis/rosmontis 외부 링크.md",
+                "file": "2024/4월/2024-04-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SmartRosmontis/rosmontis 외부 링크.md",
+                "file": "2024/4월/2024-04-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SmartRosmontis/rosmontis 외부 링크.md",
+                "file": "2024/4월/2024-04-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SmartRosmontis/rosmontis 외부 링크.md"
+                "file": "2024/4월/2024-04-23.md"
               }
             }
           },
@@ -166,11 +166,12 @@
   },
   "active": "e03caaa35abc9496",
   "lastOpenFiles": [
+    "SmartRosmontis/rosmontis 외부 링크.md",
+    "2024/4월/2024-04-23.md",
     "old/swExpertAcademy/README.md",
     "README.md",
     "2024/4월/2024-04-16.md",
     "Csharp/WPF/기본 GUI.md",
-    "SmartRosmontis/rosmontis 외부 링크.md",
     "2024/4월/2024-04-05.md",
     "Csharp/WPF",
     "Csharp",
@@ -208,7 +209,6 @@
     "swExpertAcademy/tuto/1_read.md",
     "swExpertAcademy/tuto/array 1.cpp",
     "swExpertAcademy/tuto/vector2_loop.cpp",
-    "2024/4월/무제 파일.canvas",
-    "2024/4월/2024-04-02.md"
+    "2024/4월/무제 파일.canvas"
   ]
 }

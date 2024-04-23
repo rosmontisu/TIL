@@ -39,9 +39,31 @@ void bfs()
 
 - 1번 정점과의 거리 - dist
 ```cpp
-
+vector<int> adj[10]; // adjacency
+bool dist[10];
+void bfs()
+{
+	fill(dist, dist + 10, -1);
+	queue<int> q;
+	q.push(1);
+	dist[1] = 0;
+	while (!q.empty())
+	{
+		int cur = q.front();
+		q.pop();
+		for (auto nxt : adj[cur])
+		{
+			if (dist[nxt] != -1) continue;
+			q.push(nxt);
+			dist[nxt] = dist[cur] + 1;
+		}
+	}
+}
 ```
 
+- 연결 그래프가 아닐때 { 1, 2, 3, 4 }, { 5, 6 }
+```cpp
 
+```
 
 

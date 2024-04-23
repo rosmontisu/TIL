@@ -7,5 +7,7 @@
 - 연결 그래프 (Connected Graph)
 - 단순 그래프 (Simple Graph)
 
-## adsf
+## 표현법
+#### 인접 행렬
+
 

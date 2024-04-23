@@ -13,7 +13,34 @@
 
 ## BFS
 #### 구현
+- 연결 그래프에서의 순회
+```cpp
+vector<int> adj[10]; // adjacency
+bool vis[10];
+void bfs()
+{
+	queue<int> q;
+	q.push(1);
+	vis[1] = true;
+	while (!q.empty())
+	{
+		int cur = q.front();
+		q.pop();
+		cout << cur << ' ';
+		for (auto nxt : adj[cur])
+		{
+			if (vis[nxt]) continue;
+			q.push(nxt);
+			vis[nxt] = true;
+		}	
+	}
+}
+```
 
+- 1번 정점과의 거리 - dist
+```cpp
+
+```
 
 
 

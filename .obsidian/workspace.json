@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Graph.md",
+                "file": "Algorithm/Graph (그래프).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Graph.md",
+                "file": "Algorithm/Graph (그래프).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Graph.md",
+                "file": "Algorithm/Graph (그래프).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Graph.md"
+                "file": "Algorithm/Graph (그래프).md"
               }
             }
           },
@@ -147,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,11 +164,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e03caaa35abc9496",
+  "active": "192218159e234ab1",
   "lastOpenFiles": [
+    "Algorithm/BOJ",
+    "CI-CD/무제 파일.md",
+    "Algorithm/Graph (그래프).md",
+    "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/Priority Queue(우선순위 큐).md",
-    "Algorithm/Graph.md",
     "Csharp/WPF/기본 GUI.md",
     "2024/4월/2024-04-23.md",
     "2024/4월/2024-04-16.md",
@@ -201,7 +202,6 @@
     "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
     "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
     "old/swExpertAcademy/README.md",
-    "CI-CD/무제 파일.md",
     "CI-CD",
     "[.md",
     "Algorithm",
@@ -214,7 +214,6 @@
     "Pasted image 20240406153207.png",
     "Pasted image 20240406153237.png",
     "old/resource/temp.md",
-    "old/Linux/명령어.md",
     "2024/4월/무제 파일.canvas"
   ]
 }

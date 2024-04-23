@@ -92,6 +92,15 @@ void bfs()
 
 ## DFS
 #### 구현
+- 연결 그래프 순회, 비재귀
+```cpp
+vector<int> adj[10];
+bool vis[10];
+void dfs()
+{
+	
+}
+```
 
 
 

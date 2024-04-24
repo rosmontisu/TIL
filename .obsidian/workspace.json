@@ -4,8 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "2fa24963cdeeeb73",
+        "type": "tabs",
+        "dimension": 49.16467780429594,
+        "children": [
+          {
+            "id": "15a9cd0c9864363c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/자주쓰는 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "8e408ecc4f9cfce5",
         "type": "tabs",
+        "dimension": 50.83532219570406,
         "children": [
           {
             "id": "e03caaa35abc9496",
@@ -13,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Graph (그래프).md",
-                "mode": "preview",
+                "file": "SmartRosmontis/rosmontis 외부 링크.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Graph (그래프).md",
+                "file": "Linux/자주쓰는 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Graph (그래프).md",
+                "file": "Linux/자주쓰는 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Graph (그래프).md"
+                "file": "Linux/자주쓰는 명령어.md"
               }
             }
           },
@@ -164,12 +184,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e03caaa35abc9496",
+  "active": "15a9cd0c9864363c",
   "lastOpenFiles": [
-    "Algorithm/Priority Queue (우선순위 큐).md",
-    "Algorithm/Graph (그래프).md",
-    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "SmartRosmontis/rosmontis 외부 링크.md",
+    "Linux/자주쓰는 명령어.md",
+    "README.md",
+    "Algorithm/Graph (그래프).md",
+    "Linux",
+    "Algorithm/Priority Queue (우선순위 큐).md",
+    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "SMTP/maa smtp.md",
     "2024/4월/2024-04-23.md",
     "2024/4월/2024-04-24.md",
@@ -179,7 +202,6 @@
     "2024/4월/2024-04-99.md",
     "2024/4월/2024-04-11.md",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
-    "README.md",
     "SMTP",
     "Algorithm/BOJ",
     "CI-CD/무제 파일.md",
@@ -211,8 +233,6 @@
     "Algorithm",
     "2024/4월/resource/imgs/Pasted image 20240406154912.png",
     "2024/4월/resource/imgs/Pasted image 20240406154906.png",
-    "2024/4월/resource/imgs",
-    "old/Vim/config.md",
     "Pasted image 20240406153207.png",
     "Pasted image 20240406153237.png",
     "2024/4월/무제 파일.canvas"

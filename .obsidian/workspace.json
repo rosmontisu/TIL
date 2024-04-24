@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2fa24963cdeeeb73",
+        "id": "0f92453d915a0b5a",
         "type": "tabs",
-        "dimension": 49.16467780429594,
         "children": [
           {
-            "id": "15a9cd0c9864363c",
+            "id": "ecce450dbd4a2dfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/자주쓰는 명령어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8e408ecc4f9cfce5",
-        "type": "tabs",
-        "dimension": 50.83532219570406,
-        "children": [
-          {
-            "id": "e03caaa35abc9496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SmartRosmontis/rosmontis 외부 링크.md",
+                "file": "Algorithm/Graph (그래프).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/자주쓰는 명령어.md",
+                "file": "Algorithm/Graph (그래프).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/자주쓰는 명령어.md",
+                "file": "Algorithm/Graph (그래프).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/자주쓰는 명령어.md"
+                "file": "Algorithm/Graph (그래프).md"
               }
             }
           },
@@ -184,10 +164,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15a9cd0c9864363c",
+  "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
-    "SmartRosmontis/rosmontis 외부 링크.md",
     "Linux/자주쓰는 명령어.md",
+    "SmartRosmontis/rosmontis 외부 링크.md",
     "README.md",
     "Algorithm/Graph (그래프).md",
     "Linux",

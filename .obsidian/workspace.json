@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024/4월/2024-04-25.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -167,6 +166,8 @@
   },
   "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
+    "2024/4월/2024-04-16.md",
+    "2024/4월/2024-04-23.md",
     "2024/4월/2024-04-24.md",
     "2024/4월/2024-04-25.md",
     "2024/4월/2024-04-05.md",
@@ -175,8 +176,6 @@
     "2024/4월/2024-04-09.md",
     "2024/4월/2024-04-11.md",
     "2024/4월/2024-04-12.md",
-    "2024/4월/2024-04-16.md",
-    "2024/4월/2024-04-23.md",
     "Algorithm/Graph (그래프).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Linux/자주쓰는 명령어.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-29.md",
+                "file": "C++/constexpr.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-29.md",
+                "file": "C++/constexpr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-29.md",
+                "file": "C++/constexpr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-29.md"
+                "file": "C++/constexpr.md"
               }
             }
           },
@@ -166,13 +166,17 @@
   },
   "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
+    "old/resource/temp.md",
+    "C++/constexpr.md",
+    "C++",
+    "old/resource/cpp.pdf",
+    "2024/4월/2024-04-29.md",
     "2024/4월/2024-04-26.md",
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/Graph (그래프).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
-    "2024/4월/2024-04-29.md",
     "2024/4월/2024-04-99.md",
     "2024/4월/2024-04-23.md",
     "2024/4월/2024-04-24.md",
@@ -194,7 +198,6 @@
     "SMTP",
     "Algorithm/BOJ",
     "CI-CD/무제 파일.md",
-    "cSharp/WPF/기본 GUI.md",
     "Algorithm/resource/imgs/Pasted image 20240422135431.png",
     "Algorithm/resource/imgs/Pasted image 20240422135440.png",
     "Algorithm/resource/imgs/Pasted image 20240422135347.png",
@@ -204,13 +207,10 @@
     "Algorithm/resource",
     "cSharp/WPF",
     "cSharp",
-    "2024/4월/2024-04-15.md",
     "SmartRosmontis",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",
-    "CI-CD",
-    "Algorithm",
     "2024/4월/resource/imgs/Pasted image 20240406154912.png",
     "2024/4월/resource/imgs/Pasted image 20240406154906.png",
     "Pasted image 20240406153207.png",

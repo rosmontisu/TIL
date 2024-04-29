@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-26.md",
+                "file": "2024/4월/2024-04-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-26.md",
+                "file": "2024/4월/2024-04-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-26.md",
+                "file": "2024/4월/2024-04-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-26.md"
+                "file": "2024/4월/2024-04-29.md"
               }
             }
           },
@@ -166,13 +166,14 @@
   },
   "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
-    "2024/4월/2024-04-25.md",
+    "2024/4월/2024-04-99.md",
+    "2024/4월/2024-04-29.md",
     "2024/4월/2024-04-26.md",
+    "2024/4월/2024-04-25.md",
     "Algorithm/Graph (그래프).md",
     "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
-    "2024/4월/2024-04-99.md",
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-12.md",
     "2024/4월/2024-04-23.md",
@@ -208,7 +209,6 @@
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",
-    "old/swExpertAcademy/self_study_book_1/1_array_gravity.md",
     "CI-CD",
     "Algorithm",
     "2024/4월/resource/imgs/Pasted image 20240406154912.png",

@@ -38,4 +38,4 @@ void preorder(int cur) {
 }
 ```
 #### 중위 순회 (Inorder Traversal)
-#### 후위 순회
+#### 후위 순회 (Postorder Traversal)

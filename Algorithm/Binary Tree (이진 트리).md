@@ -38,4 +38,22 @@ void preorder(int cur) {
 }
 ```
 #### 중위 순회 (Inorder Traversal)
+```cpp
+int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
+int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
+void inorder(int cur) {
+	if (lc[cur] != 0) inorder(lc[cur]);
+	cout << cur << ' ';
+	if (rc[cur] != 0) inorder(rc[cur]);
+}
+```
 #### 후위 순회 (Postorder Traversal)
+```cpp
+int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
+int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
+void postorder(int cur) {
+	if (lc[cur] != 0) postorder(lc[cur]);
+	if (rc[cur] != 0) postorder[rc[cur]];
+	cout << cur;
+}
+```

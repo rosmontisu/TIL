@@ -42,8 +42,13 @@ voic bfs(int root) {
 		int cur = q.front();
 		q.pop();
 		cout << cur << ' ';
-		for (int nxt : adj[cur])
+		for (int nxt : adj[cur]) {
+			if (p[cur] == nxt) continue;
+			q.push(nxt);
+			p[nxt] = cur; // nxt의 부모는 cur입니다.
+			depth[nxt] = depth[cur] + 1; // 자식의 depth는 부모 + 1;
+		}
 	}
 }
-
 ```
+

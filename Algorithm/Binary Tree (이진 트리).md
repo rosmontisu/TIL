@@ -25,6 +25,17 @@ void bfs() {
 	}
 }
 ```
-#### 전위 순회
-#### 중위 순회
+#### 전위 순회 (Preorder Traversal)
+- DFS와 방문 순서가 같다.
+- 자신을 출력, 왼쪽/오른쪽 자식 각각에 대해 존재할 경우 다시 전위 순회
+```cpp
+int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
+int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
+void preorder(int cur) {
+	cout << cur << ' ';
+	if (lc[cur] != 0) preorder(lc[cur]);
+	if (rc[cur] != 0) preorder(rc[cur]);
+}
+```
+#### 중위 순회 (Inorder Traversal)
 #### 후위 순회

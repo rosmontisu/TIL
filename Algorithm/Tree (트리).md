@@ -104,19 +104,5 @@ void dfs(int cur) {
 ```
 
 
-## 이진 트리
-```cpp
-int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
-int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
-void bfs() {
-	queue<int> q;
-	q.push(1);
-	while(!q.empty()) {
-		int cur = q.front();
-		q.pop();
-		cout << cur << ' ';
-		if (lc[cur]) q.push(lc[cur]);
-		if (rc[cur]) q.push(rc[cur]);
-	}
-}
-```
+## [이진 트리](obsidian://open?vault=TIL&file=Algorithm%2FBinary%20Tree%20(%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC))
+- 부모 노드의 자식이 항상 좌-우로 2개인 트리

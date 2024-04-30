@@ -31,6 +31,19 @@ void bfs(int root) {
 - 각 정점의 부모 정보를 p[] 배열에 저장하므로, BFS한번으로 부모 정보를 쉽게 파악 가능
 
 #### BFS - 부모와 depth 배열 채우기
-```
+```cpp
+vector<int> adj[10];
+int p[10];
+int depth[10];
+voic bfs(int root) {
+	queue<int> q;
+	q.push(root); // root-node
+	while (!q.empty()) {
+		int cur = q.front();
+		q.pop();
+		cout << cur << ' ';
+		for (int nxt : adj[cur])
+	}
+}
 
 ```

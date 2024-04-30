@@ -73,3 +73,32 @@ void dfs (int root) {
 	}
 }
 ```
+#### DFS - 부모와 depth 배열 채우기 (재귀)
+```cpp
+vector<int> adj[10];
+int p[10];
+int depth[10]
+void dfs(int cur) {
+	cout << cur << ' ';
+	// adj[cur]로 마지막 정점에 도달하면 알아서 멈추므로, 재귀가 성립
+	for (int nxt : adj[cur]) {
+		if (p[cur] == nxt) continue;
+		p[nxt] = cur;
+		depth[nxt] = depth[cur] + 1;
+		dfs(nxt);
+	}
+}
+```
+- dfs(node) 로 함수를 시작하면된다.
+- 주의점 : 스택 메모리가 1MB제한일경우?
+- V가 3만 이상이라면 일자트리 모양에서 스택 메모리 한계를 넘을 수 있다.
+#### DFS - 단순 순회 (재귀)
+```cpp
+vector<int> adj[10];
+void dfs(int cur) {
+	cout << cur << ' ';
+	for (int nxt : adj[cur]) {
+		dfs(nxt);
+	}
+}
+```

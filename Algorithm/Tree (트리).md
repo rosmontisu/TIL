@@ -107,7 +107,7 @@ void dfs(int cur) {
 ## 이진 트리
 ```cpp
 int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
-int rc[9] - { 0, 3, 5, 7, 0, 8, 0, 0, 0}
+int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
 void bfs() {
 	queue<int> q;
 	q.push(1);

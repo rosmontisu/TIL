@@ -6,7 +6,7 @@
 	- 후위 순회
 #### 레벨 순회
 - 루트를 시작점으로 두고, BFS를 돌린 순회이다.
-- {1-2-3-4-5-6-7-8}
+- { 1-2-3-4-5-6-7-8 }
 ```cpp
 int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
 int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
@@ -28,23 +28,30 @@ void bfs() {
 	1. 현재 정점을 방문한다.
 	2. 왼쪽 서브 트리를 전위 순회한다.
 	3. 오른쪽 서브 트리를 전위 순회한다.
+- { 1-2-4-5-6-3-6-7 }
 ```cpp
 int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
 int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
 void preorder(int cur) {
-	cout << cur << ' ';
-	if (lc[cur] != 0) preorder(lc[cur]);
-	if (rc[cur] != 0) preorder(rc[cur]);
+	cout << cur << ' '; // 현재 정점 출력
+	if (lc[cur] != 0) preorder(lc[cur]); // 좌측 전위 순회
+	if (rc[cur] != 0) preorder(rc[cur]); // 우측 전위 순회
 }
 ```
 #### 중위 순회 (Inorder Traversal)
+- 트리의 가장 왼쪽에 있는 것 부터 방문하는 순서와 같다.
+- 그렇기에 만약 BST라면, 가장 작은 수 -> 큰 수로 탐색된다.
+	1. 왼쪽 서브 트리를 중위 순회한다.
+	2. 현재 정점을 방문한다.
+	3. 오른쪽 서브 트리를 중위 순회한다.
+- { 4-2-5-8-1-6-3-7 }
 ```cpp
 int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
 int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
 void inorder(int cur) {
-	if (lc[cur] != 0) inorder(lc[cur]);
-	cout << cur << ' ';
-	if (rc[cur] != 0) inorder(rc[cur]);
+	if (lc[cur] != 0) inorder(lc[cur]); // 좌측 중위 순회
+	cout << cur << ' '; // 현재 정점 출력
+	if (rc[cur] != 0) inorder(rc[cur]); // 우측 중위 순회
 }
 ```
 #### 후위 순회 (Postorder Traversal)

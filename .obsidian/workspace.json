@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Binary Tree (이진 트리).md",
-                "mode": "source",
+                "file": "2024/4월/2024-04-30.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Binary Tree (이진 트리).md",
+                "file": "2024/4월/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Binary Tree (이진 트리).md",
+                "file": "2024/4월/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Binary Tree (이진 트리).md"
+                "file": "2024/4월/2024-04-30.md"
               }
             }
           },
@@ -167,14 +166,14 @@
   },
   "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
-    "Algorithm/Tree (트리).md",
     "Algorithm/Binary Tree (이진 트리).md",
-    "Algorithm/Priority Queue (우선순위 큐).md",
     "2024/4월/2024-04-30.md",
     "2024/4월/2024-04-29.md",
-    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/Graph (그래프).md",
+    "Algorithm/Tree (트리).md",
+    "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
+    "Algorithm/Graph (그래프).md",
+    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/BitMask (비트마스크).md",
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-12.md",

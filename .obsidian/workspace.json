@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/constexpr.md",
+                "file": "2024/4월/2024-04-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/constexpr.md",
+                "file": "2024/4월/2024-04-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/constexpr.md",
+                "file": "2024/4월/2024-04-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/constexpr.md"
+                "file": "2024/4월/2024-04-30.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
-    "old/resource/temp.md",
     "C++/constexpr.md",
+    "2024/4월/2024-04-30.md",
+    "old/resource/temp.md",
     "C++",
     "old/resource/cpp.pdf",
     "2024/4월/2024-04-29.md",
@@ -197,7 +198,6 @@
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
     "SMTP",
     "Algorithm/BOJ",
-    "CI-CD/무제 파일.md",
     "Algorithm/resource/imgs/Pasted image 20240422135431.png",
     "Algorithm/resource/imgs/Pasted image 20240422135440.png",
     "Algorithm/resource/imgs/Pasted image 20240422135347.png",

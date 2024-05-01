@@ -18,7 +18,7 @@
 - 성능 : AVL < Red Black
 	 
 ## STL
-- set, multiset, map 3가지가 구현되어있다.
+- set, multiset, map 3가지로 구현이 가능하다.
 - 직접 예제 코드를 작성하고, 분석해보자. ([예제 출처](https://blog.encrypted.gg/1013))
 #### STL - set
 ```cpp

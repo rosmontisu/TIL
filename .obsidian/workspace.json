@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-05-01.md",
+                "file": "Algorithm/Binary Tree (이진 트리).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-05-01.md",
+                "file": "Algorithm/Binary Tree (이진 트리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-05-01.md",
+                "file": "Algorithm/Binary Tree (이진 트리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-05-01.md"
+                "file": "Algorithm/Binary Tree (이진 트리).md"
               }
             }
           },
@@ -166,16 +166,17 @@
   },
   "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
-    "2024/4월/2024-04-30.md",
-    "2024/4월/2024-05-01.md",
-    "Algorithm/Binary Tree (이진 트리).md",
-    "2024/4월/2024-04-29.md",
+    "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Tree (트리).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
+    "2024/4월/2024-04-30.md",
+    "Algorithm/Binary Tree (이진 트리).md",
     "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
+    "2024/5월/2024-05-01.md",
+    "2024/5월",
+    "2024/4월/2024-04-29.md",
     "Algorithm/Graph (그래프).md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/BitMask (비트마스크).md",
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-12.md",
     "2024/4월/2024-04-11.md",
@@ -193,7 +194,6 @@
     "2024/4월/2024-04-08.md",
     "2024/4월/2024-04-09.md",
     "Linux/자주쓰는 명령어.md",
-    "SmartRosmontis/rosmontis 외부 링크.md",
     "Linux",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
     "SMTP",
@@ -207,7 +207,6 @@
     "Algorithm/resource",
     "cSharp/WPF",
     "cSharp",
-    "SmartRosmontis",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",

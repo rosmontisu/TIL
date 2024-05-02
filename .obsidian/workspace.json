@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/4월/2024-04-30.md",
-                "mode": "preview",
+                "file": "2024/4월/2024-05-02.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/4월/2024-04-30.md",
+                "file": "2024/4월/2024-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/4월/2024-04-30.md",
+                "file": "2024/4월/2024-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/4월/2024-04-30.md"
+                "file": "2024/4월/2024-05-02.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   "active": "ecce450dbd4a2dfa",
   "lastOpenFiles": [
     "Algorithm/Binary Tree (이진 트리).md",
+    "2024/4월/2024-05-02.md",
     "2024/4월/2024-04-30.md",
     "2024/4월/2024-04-29.md",
     "Algorithm/Tree (트리).md",
@@ -193,7 +194,6 @@
     "2024/4월/2024-04-09.md",
     "Linux/자주쓰는 명령어.md",
     "SmartRosmontis/rosmontis 외부 링크.md",
-    "README.md",
     "Linux",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
     "SMTP",

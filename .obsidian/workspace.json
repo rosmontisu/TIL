@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-02.md",
+                "file": "2024/5월/2024-05-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-02.md",
+                "file": "2024/5월/2024-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-02.md",
+                "file": "2024/5월/2024-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-02.md"
+                "file": "2024/5월/2024-05-03.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "4c54835851318126",
   "lastOpenFiles": [
-    "2024/5월/2024-05-01.md",
     "2024/5월/2024-05-02.md",
+    "2024/5월/2024-05-03.md",
+    "2024/5월/2024-05-01.md",
     "2024/4월/2024-04-25.md",
     "2024/4월/2024-04-26.md",
     "2024/4월/2024-04-29.md",
@@ -207,7 +208,6 @@
     "2024/4월/2024-04-99.md",
     "2024/4월/2024-04-05.md",
     "2024/4월/2024-04-06.md",
-    "2024/4월/2024-04-08.md",
     "Linux",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
     "SMTP",

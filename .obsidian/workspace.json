@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -179,6 +180,9 @@
   },
   "active": "4c54835851318126",
   "lastOpenFiles": [
+    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
+    "Algorithm/BitMask (비트마스크).md",
+    "Algorithm/Binary Tree (이진 트리).md",
     "2024/5월/2024-05-03.md",
     "2024/4월/2024-04-30.md",
     "2024/4월/2024-04-29.md",
@@ -194,13 +198,10 @@
     "README.md",
     "conflict-files-obsidian-git.md",
     "2024/5월",
-    "Algorithm/Binary Tree (이진 트리).md",
     "Algorithm/Tree (트리).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
     "Algorithm/Graph (그래프).md",
-    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/BitMask (비트마스크).md",
     "C++/constexpr.md",
     "old/resource/temp.md",
     "C++",

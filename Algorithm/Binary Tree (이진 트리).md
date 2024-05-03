@@ -35,7 +35,7 @@ int lc[9] = { 0, 2, 4, 6, 0, 0, 0, 0, 0}
 int rc[9] = { 0, 3, 5, 7, 0, 8, 0, 0, 0}
 void preorder(int cur) {
 	cout << cur << ' '; // 현재 정점 출력
-	if (lc[cur] != 0) preorder(lc[cur]); // 좌측 전위 순회
+	if (lc[cur] != 0) preorder(lc[cur]); // 0은 root or NULL이므로 0까지 순회합니다.
 	if (rc[cur] != 0) preorder(rc[cur]); // 우측 전위 순회
 }
 ```

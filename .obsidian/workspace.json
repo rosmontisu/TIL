@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -180,13 +179,13 @@
   },
   "active": "4c54835851318126",
   "lastOpenFiles": [
+    "2024/5월/2024-05-03.md",
+    "Algorithm/Binary Tree (이진 트리).md",
+    "2024/5월/2024-05-02.md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/BitMask (비트마스크).md",
-    "Algorithm/Binary Tree (이진 트리).md",
-    "2024/5월/2024-05-03.md",
     "2024/4월/2024-04-30.md",
     "2024/4월/2024-04-29.md",
-    "2024/5월/2024-05-02.md",
     "2024/5월/2024-05-01.md",
     "2024/4월/2024-04-25.md",
     "2024/4월/2024-04-26.md",

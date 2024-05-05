@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024/5월/2024-05-05.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -179,9 +179,9 @@
   },
   "active": "4c54835851318126",
   "lastOpenFiles": [
-    "Algorithm/Binary Tree (이진 트리).md",
-    "2024/5월/2024-05-05.md",
     "2024/5월/2024-05-03.md",
+    "2024/5월/2024-05-05.md",
+    "Algorithm/Binary Tree (이진 트리).md",
     "2024/5월/2024-05-02.md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/BitMask (비트마스크).md",

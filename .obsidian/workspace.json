@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-07.md",
+                "file": "Algorithm/BOJ/BojStep/6_심화1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-07.md",
+                "file": "Algorithm/BOJ/BojStep/6_심화1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-07.md",
+                "file": "Algorithm/BOJ/BojStep/6_심화1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-07.md"
+                "file": "Algorithm/BOJ/BojStep/6_심화1.md"
               }
             }
           },
@@ -164,10 +164,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b2dc9568c08c172d",
+  "active": "192218159e234ab1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "2024/5월/2024-05-07.md",
+    "Algorithm/BOJ/BojStep/6_심화1.md",
+    "Algorithm/BOJ/단계별로 풀어보기/6_심화 1",
+    "Algorithm/BOJ/BojStep",
+    "conflict-files-obsidian-git.md",
     "2024/5월/2024-05-05.md",
     "2024/4월/2024-04-30.md",
     "Algorithm/Binary Tree (이진 트리).md",
@@ -194,7 +197,6 @@
     "old/resource/temp.md",
     "C++",
     "old/resource/cpp.pdf",
-    "2024/4월/2024-04-99.md",
     "Linux",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
     "SMTP",
@@ -206,8 +208,6 @@
     "Algorithm/resource/imgs/Pasted image 20240422135216.png",
     "Algorithm/resource/imgs",
     "Algorithm/resource",
-    "cSharp/WPF",
-    "cSharp",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",

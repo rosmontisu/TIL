@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6_심화1.md",
-                "mode": "source",
+                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6_심화1.md",
+                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6_심화1.md",
+                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6_심화1.md"
+                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md"
               }
             }
           },
@@ -164,10 +164,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "192218159e234ab1",
+  "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
     "2024/5월/2024-05-07.md",
-    "Algorithm/BOJ/BojStep/6_심화1.md",
+    "Algorithm/BOJ/BojStep/6. 심화 1.md",
     "Algorithm/BOJ/단계별로 풀어보기/6_심화 1",
     "Algorithm/BOJ/BojStep",
     "conflict-files-obsidian-git.md",

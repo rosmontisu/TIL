@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md",
+                "file": "Algorithm/Sort/Merge Sort.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md",
+                "file": "Algorithm/Sort/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md",
+                "file": "Algorithm/Sort/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/BOJ/BojStep/6. 심화 1.md"
+                "file": "Algorithm/Sort/Merge Sort.md"
               }
             }
           },
@@ -166,8 +166,11 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
-    "2024/5월/2024-05-07.md",
+    "Algorithm/Graph (그래프).md",
+    "Algorithm/Sort/Merge Sort.md",
     "Algorithm/BOJ/BojStep/6. 심화 1.md",
+    "Algorithm/Sort",
+    "2024/5월/2024-05-07.md",
     "Algorithm/BOJ/단계별로 풀어보기/6_심화 1",
     "Algorithm/BOJ/BojStep",
     "conflict-files-obsidian-git.md",
@@ -192,9 +195,7 @@
     "Algorithm/Tree (트리).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
-    "Algorithm/Graph (그래프).md",
     "C++/constexpr.md",
-    "old/resource/temp.md",
     "C++",
     "old/resource/cpp.pdf",
     "Linux",
@@ -207,7 +208,6 @@
     "Algorithm/resource/imgs/Pasted image 20240422135201.png",
     "Algorithm/resource/imgs/Pasted image 20240422135216.png",
     "Algorithm/resource/imgs",
-    "Algorithm/resource",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",

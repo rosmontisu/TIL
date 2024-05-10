@@ -42,3 +42,6 @@ kill -9 {id}    
 pop 으로 프로세스 확인 후    
 pid입력으로 kill 도 가능  
 pop, O COMMAND=python 등으로 특정 커맨드를 grep 가능
+
+#### SSL
+https://manage.sslforfree.com/dashboard

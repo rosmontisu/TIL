@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-08.md",
+                "file": "2024/5월/2024-05-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-08.md",
+                "file": "2024/5월/2024-05-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-08.md",
+                "file": "2024/5월/2024-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-08.md"
+                "file": "2024/5월/2024-05-10.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
+    "2024/5월/2024-05-08.md",
+    "2024/5월/2024-05-10.md",
     "2024/5월/resource/imgs/Pasted image 20240508173523.png",
     "2024/5월/resource/imgs/Pasted image 20240508172929.png",
     "2024/5월/resource/imgs/Pasted image 20240508150754.png",
@@ -175,7 +177,6 @@
     "2024/5월/resource",
     "2024/5월/2024-05-07.md",
     "2024/5월/2024-05-05.md",
-    "2024/5월/2024-05-08.md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/Binary Tree (이진 트리).md",
     "Algorithm/Sort/Merge Sort.md",
@@ -211,7 +212,6 @@
     "Algorithm/resource/imgs/Pasted image 20240422135440.png",
     "Algorithm/resource/imgs/Pasted image 20240422135347.png",
     "Algorithm/resource/imgs/Pasted image 20240422135201.png",
-    "Algorithm/resource/imgs/Pasted image 20240422135216.png",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",

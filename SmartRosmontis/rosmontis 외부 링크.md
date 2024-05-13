@@ -45,3 +45,4 @@ pop, O COMMAND=python 등으로 특정 커맨드를 grep 가능
 
 #### SSL
 https://manage.sslforfree.com/dashboard
+DA7... 으로 사용중

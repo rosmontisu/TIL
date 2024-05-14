@@ -7,6 +7,7 @@
 	3. 실제 시간복잡도 : O(NlogN + MlogN)
 ## 구현
 - start, middle, end 포인트를 저장하는 변수를 이용해 구현한다.
+- middle = (start+end)/2 
 ```cpp
 
 ```

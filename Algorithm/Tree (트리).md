@@ -1,6 +1,6 @@
 ## 특징
-> 방향성이 없고, (Undirected)
-> 사이클이 없는 연결 그래프 (Acyclic Connected Graph)
+- 방향성이 없고, (Undirected)
+- 사이클이 없는 연결 그래프 (Acyclic Connected Graph)
 - 트리는 임의의 노드를 root로 만들 수 있다.
 ## BFS/DFS
 - 루트가 아닌 정점은 부모를 제외한 자식 정점만 방문하면된다.

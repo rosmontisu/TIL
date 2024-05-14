@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
+                "file": "Algorithm/Binary Search (이분탐색).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
+                "file": "Algorithm/Binary Search (이분탐색).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
+                "file": "Algorithm/Binary Search (이분탐색).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md"
+                "file": "Algorithm/Binary Search (이분탐색).md"
               }
             }
           },
@@ -167,13 +167,13 @@
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
     "Algorithm/Graph (그래프).md",
-    "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
+    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Binary Tree (이진 트리).md",
     "Algorithm/Binary Search (이분탐색).md",
-    "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/Tree (트리).md",
-    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
+    "Algorithm/Priority Queue (우선순위 큐).md",
+    "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
     "2024/5월/2024-05-14.md",
     "2024/5월/2024-05-13.md",
     "SmartRosmontis/rosmontis 외부 링크.md",

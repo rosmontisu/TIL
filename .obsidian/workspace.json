@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/BitMask (비트마스크).md",
-                "mode": "source",
+                "file": "Algorithm/Graph (그래프).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/BitMask (비트마스크).md",
+                "file": "Algorithm/Graph (그래프).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/BitMask (비트마스크).md",
+                "file": "Algorithm/Graph (그래프).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/BitMask (비트마스크).md"
+                "file": "Algorithm/Graph (그래프).md"
               }
             }
           },
@@ -166,10 +166,14 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
-    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Binary Tree (이진 트리).md",
     "Algorithm/Binary Search (이분탐색).md",
+    "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
+    "Algorithm/Priority Queue (우선순위 큐).md",
+    "Algorithm/Tree (트리).md",
+    "Algorithm/Graph (그래프).md",
+    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "2024/5월/2024-05-14.md",
     "2024/5월/2024-05-13.md",
     "SmartRosmontis/rosmontis 외부 링크.md",
@@ -185,7 +189,6 @@
     "2024/5월/2024-05-07.md",
     "2024/5월/2024-05-05.md",
     "Algorithm/Sort/Merge Sort.md",
-    "Algorithm/Graph (그래프).md",
     "Algorithm/BOJ/BojStep/6. 심화 1.md",
     "Algorithm/Sort",
     "Algorithm/BOJ/단계별로 풀어보기/6_심화 1",
@@ -199,9 +202,6 @@
     "2024/4월/2024-04-25.md",
     "2024/4월/2024-04-26.md",
     "2024/4월/2024-04-11.md",
-    "2024/4월/2024-04-12.md",
-    "2024/4월/2024-04-16.md",
-    "2024/4월/2024-04-23.md",
     "2024/5월",
     "C++",
     "old/resource/cpp.pdf",

@@ -8,6 +8,7 @@
 ## 구현
 - start, middle, end 포인트를 저장하는 변수를 이용해 구현한다.
 - 각 변수의 핵심 로직은 아래와 같다.
+	- 초기 end = n-1
 	- middle = (start+end)/2 
 	- start = mid+1
 	- end = mid-1

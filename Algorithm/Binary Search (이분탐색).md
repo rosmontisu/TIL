@@ -12,5 +12,39 @@
 	- start = mid+1
 	- end = mid-1
 ```cpp
-
+#include <iostream>
+using namespace std;
+//vector<int> v;
+int arr[100001];
+int n;
+int BinarySearch(int input)
+{
+	int st = 0; 
+	int end = n - 1;
+	while (st <= end)
+	{
+		int mid = (st + end) / 2;
+		if (arr[mid] < input)
+			st = mid + 1;
+		else if (arr[mid] > input)
+			end = mid - 1;
+		else
+			return 1;
+	}
+	return 0;
+}
+int main(void)
+{
+	cin >> n;
+	for (int i = 0; i < n; i++)
+		cin >> arr[i];
+	sort(arr, arr + n);
+	int m;
+	cin >> m;
+	while (m--)
+	{
+		int input; cin >> input;
+		cout << BinarySearch(input) << '\n';
+	}
+}
 ```

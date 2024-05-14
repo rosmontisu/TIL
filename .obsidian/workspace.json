@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithm/Binary Search (이분탐색).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",

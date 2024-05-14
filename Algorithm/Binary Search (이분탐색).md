@@ -50,3 +50,6 @@ int main(void)
 }
 ```
 ## Parametric Search
+- 최적화 문제 : 조건을 만족하는 최소/최댓값을 구하는 문제
+- 최적화 문제를 결정 문제로 변환해 이분탐색을 수행하는 방법
+- 예시 문제 [boj 1654 랜선 자르기](https://www.acmicpc.net/problem/1654)

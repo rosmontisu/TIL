@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Graph (그래프).md",
-                "mode": "preview",
+                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "section:(특징)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Graph (그래프).md",
+                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Graph (그래프).md",
+                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Graph (그래프).md"
+                "file": "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md"
               }
             }
           },
@@ -166,13 +166,13 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
+    "Algorithm/Graph (그래프).md",
+    "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Binary Tree (이진 트리).md",
     "Algorithm/Binary Search (이분탐색).md",
-    "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/Tree (트리).md",
-    "Algorithm/Graph (그래프).md",
     "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
     "2024/5월/2024-05-14.md",
     "2024/5월/2024-05-13.md",

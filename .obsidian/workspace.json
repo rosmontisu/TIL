@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-14.md",
-                "mode": "source",
+                "file": "2024/5월/2024-05-16.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "section:(특징)",
+                "query": "tag:#BinarySearch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-14.md",
+                "file": "2024/5월/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-14.md",
+                "file": "2024/5월/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-14.md"
+                "file": "2024/5월/2024-05-16.md"
               }
             }
           },
@@ -166,9 +166,13 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
-    "2024/5월/2024-05-16.md",
-    "Algorithm/Binary Search (이분탐색).md",
     "2024/5월/2024-05-14.md",
+    "Algorithm/Binary Search (이분탐색).md",
+    "2024/5월/2024-05-16.md",
+    "2024/5월/2024-05-05.md",
+    "2024/5월/2024-05-03.md",
+    "2024/5월/2024-05-02.md",
+    "2024/5월/2024-05-13.md",
     "Algorithm/Tree (트리).md",
     "C++/constexpr.md",
     "Algorithm/resource/imgs/Pasted image 20240514171611.png",
@@ -178,7 +182,6 @@
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
-    "2024/5월/2024-05-13.md",
     "SmartRosmontis/rosmontis 외부 링크.md",
     "2024/5월/2024-05-10.md",
     "2024/5월/2024-05-08.md",
@@ -190,7 +193,6 @@
     "2024/5월/resource/imgs",
     "2024/5월/resource",
     "2024/5월/2024-05-07.md",
-    "2024/5월/2024-05-05.md",
     "Algorithm/Sort/Merge Sort.md",
     "Algorithm/BOJ/BojStep/6. 심화 1.md",
     "Algorithm/Sort",
@@ -198,8 +200,6 @@
     "Algorithm/BOJ/BojStep",
     "conflict-files-obsidian-git.md",
     "2024/4월/2024-04-30.md",
-    "2024/5월/2024-05-03.md",
-    "2024/5월/2024-05-02.md",
     "2024/4월/2024-04-29.md",
     "2024/5월/2024-05-01.md",
     "2024/4월/2024-04-25.md",

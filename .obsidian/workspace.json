@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Priority Queue (우선순위 큐).md",
+                "file": "Algorithm/Graph/Graph (그래프).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Priority Queue (우선순위 큐).md",
+                "file": "Algorithm/Graph/Graph (그래프).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Priority Queue (우선순위 큐).md",
+                "file": "Algorithm/Graph/Graph (그래프).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Priority Queue (우선순위 큐).md"
+                "file": "Algorithm/Graph/Graph (그래프).md"
               }
             }
           },
@@ -164,26 +164,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b2dc9568c08c172d",
+  "active": "192218159e234ab1",
   "lastOpenFiles": [
-    "Algorithm/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
+    "Algorithm/Graph/Tree (트리).md",
+    "Algorithm/Priority Queue (우선순위 큐).md",
+    "Algorithm/Graph/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
+    "Algorithm/Graph/BST (Binary Search Tree, 이진 검색 트리).md",
+    "Algorithm/BitMask (비트마스크).md",
+    "Algorithm/Binary Search (이분탐색).md",
+    "Algorithm/Graph/Binary Tree (이진 트리).md",
+    "Algorithm/Graph",
     "Algorithm/BOJ/BojStep/6. 심화 1.md",
     "2024/5월/2024-05-20.md",
     "2024/5월/2024-05-16.md",
     "2024/5월/2024-05-14.md",
-    "Algorithm/Binary Search (이분탐색).md",
     "2024/5월/2024-05-05.md",
     "2024/5월/2024-05-03.md",
     "2024/5월/2024-05-02.md",
     "2024/5월/2024-05-13.md",
-    "Algorithm/Tree (트리).md",
     "C++/constexpr.md",
     "Algorithm/resource/imgs/Pasted image 20240514171611.png",
-    "Algorithm/Graph (그래프).md",
-    "Algorithm/Binary Tree (이진 트리).md",
-    "Algorithm/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/BitMask (비트마스크).md",
-    "Algorithm/Priority Queue (우선순위 큐).md",
+    "Algorithm/Graph/Graph (그래프).md",
     "SmartRosmontis/rosmontis 외부 링크.md",
     "2024/5월/2024-05-10.md",
     "2024/5월/2024-05-08.md",
@@ -202,13 +203,11 @@
     "conflict-files-obsidian-git.md",
     "2024/4월/2024-04-30.md",
     "2024/4월/2024-04-29.md",
-    "2024/5월/2024-05-01.md",
     "2024/5월",
     "C++",
     "old/resource/cpp.pdf",
     "Linux",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
-    "SMTP",
     "Algorithm/resource/imgs/Pasted image 20240422135431.png",
     "Algorithm/resource/imgs/Pasted image 20240422135440.png",
     "Algorithm/resource/imgs/Pasted image 20240422135347.png",

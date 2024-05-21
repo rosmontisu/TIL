@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-21.md",
-                "mode": "source",
+                "file": "Algorithm/Graph/Graph (그래프).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-21.md",
+                "file": "Algorithm/Graph/Graph (그래프).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-21.md",
+                "file": "Algorithm/Graph/Graph (그래프).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-21.md"
+                "file": "Algorithm/Graph/Graph (그래프).md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
-    "2024/5월/2024-05-20.md",
     "2024/5월/2024-05-21.md",
+    "2024/5월/2024-05-20.md",
     "2024/5월/resource/imgs/Pasted image 20240520173855.png",
     "2024/4월/2024-04-05.md",
     "2024/4월/2024-04-08.md",

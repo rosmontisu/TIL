@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-23.md",
+                "file": "2024/5월/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-23.md",
+                "file": "2024/5월/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-23.md",
+                "file": "2024/5월/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-23.md"
+                "file": "2024/5월/2024-05-27.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
-    "cSharp/WPF/기본 GUI.md",
     "2024/5월/2024-05-23.md",
+    "2024/5월/2024-05-27.md",
+    "cSharp/WPF/기본 GUI.md",
     "2024/5월/2024-05-22.md",
     "2024/4월/2024-04-05.md",
     "2024/4월/2024-04-06.md",
@@ -191,7 +192,6 @@
     "2024/5월/2024-05-14.md",
     "2024/5월/2024-05-13.md",
     "2024/5월/2024-05-10.md",
-    "2024/5월/2024-05-20.md",
     "Tools",
     "2024/5월/resource/imgs/Pasted image 20240520173855.png",
     "Algorithm/Graph",

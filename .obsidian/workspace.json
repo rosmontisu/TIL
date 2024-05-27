@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ms.md",
-                "mode": "preview",
+                "file": "2024/5월/2024-05-27.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ms.md",
+                "file": "2024/5월/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ms.md",
+                "file": "2024/5월/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ms.md"
+                "file": "2024/5월/2024-05-27.md"
               }
             }
           },
@@ -166,17 +166,17 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
+    "2024/5월/2024-05-23.md",
+    "2024/5월/2024-05-27.md",
+    "Linux/ms.md",
     "Linux/resource/imgs/Pasted image 20240527170625.png",
     "Linux/resource/imgs",
     "Linux/resource",
-    "2024/5월/2024-05-27.md",
-    "Linux/ms.md",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/Graph/다익스트라.md",
     "Algorithm/Graph/Minimum Spanning Tree (최소 신장 트리).md",
     "Algorithm/Graph/Topological Sorting (위상 정렬).md",
     "Algorithm/BOJ/BojStep/6. 심화 1.md",
-    "2024/5월/2024-05-23.md",
     "cSharp/WPF/기본 GUI.md",
     "2024/5월/2024-05-22.md",
     "2024/4월/2024-04-05.md",
@@ -211,7 +211,6 @@
     "2024/5월",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
     "Algorithm/resource/imgs/Pasted image 20240422135431.png",
-    "Algorithm/resource/imgs/Pasted image 20240422135440.png",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",

@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-28.md",
-                "mode": "preview",
+                "file": "cSharp/WPF/백그라운드 아이콘 트레이.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-28.md",
+                "file": "cSharp/WPF/백그라운드 아이콘 트레이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-28.md",
+                "file": "cSharp/WPF/백그라운드 아이콘 트레이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-28.md"
+                "file": "cSharp/WPF/백그라운드 아이콘 트레이.md"
               }
             }
           },
@@ -179,12 +179,14 @@
   },
   "active": "50bc32ef8361e1c7",
   "lastOpenFiles": [
+    "cSharp/WPF/기본 GUI.md",
+    "cSharp/WPF/백그라운드 아이콘 트레이.md",
+    "2024/5월/2024-05-28.md",
     "2024/5월/resource/imgs/Pasted image 20240528161715.png",
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-12.md",
     "2024/4월/2024-04-11.md",
     "2024/4월/2024-04-09.md",
-    "cSharp/WPF/기본 GUI.md",
     "2024/4월/2024-04-23.md",
     "2024/4월/2024-04-24.md",
     "2024/4월/2024-04-25.md",
@@ -204,7 +206,6 @@
     "2024/5월/2024-05-20.md",
     "2024/5월/2024-05-22.md",
     "2024/5월/2024-05-21.md",
-    "2024/5월/2024-05-23.md",
     "C++/C++ server",
     "2024/5월/resource/imgs/Pasted image 20240528150522.png",
     "2024/5월/resource/imgs/Pasted image 20240528150438.png",
@@ -219,7 +220,6 @@
     "2024/5월/resource/imgs/Pasted image 20240508172929.png",
     "2024/5월/resource/imgs/Pasted image 20240508150754.png",
     "2024/5월/resource/imgs/Pasted image 20240508150743.png",
-    "2024/5월/resource/imgs/Pasted image 20240508150725.png",
     "2024/5월/resource/imgs",
     "2024/5월/resource",
     "Algorithm/Sort",

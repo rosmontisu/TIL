@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024/5월/2024-05-28.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -167,11 +166,16 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
+    "2024/5월/2024-05-27.md",
+    "2024/5월/2024-05-28.md",
+    "C++/constexpr.md",
+    "2024/5월/2024-05-16.md",
+    "2024/5월/2024-05-20.md",
+    "2024/5월/2024-05-21.md",
+    "2024/5월/2024-05-22.md",
+    "2024/5월/2024-05-23.md",
     "2024/5월/resource/imgs/Pasted image 20240528150522.png",
     "2024/5월/resource/imgs/Pasted image 20240528150438.png",
-    "2024/5월/2024-05-23.md",
-    "2024/5월/2024-05-28.md",
-    "2024/5월/2024-05-27.md",
     "Linux/ms.md",
     "Linux/resource/imgs/Pasted image 20240527170625.png",
     "Linux/resource/imgs",
@@ -182,7 +186,6 @@
     "Algorithm/Graph/Topological Sorting (위상 정렬).md",
     "Algorithm/BOJ/BojStep/6. 심화 1.md",
     "cSharp/WPF/기본 GUI.md",
-    "2024/5월/2024-05-22.md",
     "2024/4월/2024-04-05.md",
     "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-08.md",
@@ -194,9 +197,6 @@
     "2024/4월/2024-04-24.md",
     "2024/4월/2024-04-25.md",
     "2024/4월/2024-04-26.md",
-    "2024/4월/2024-04-29.md",
-    "2024/4월/2024-04-30.md",
-    "2024/5월/2024-05-02.md",
     "Tools",
     "2024/5월/resource/imgs/Pasted image 20240520173855.png",
     "Algorithm/Graph",
@@ -212,7 +212,6 @@
     "Algorithm/BOJ/단계별로 풀어보기/6_심화 1",
     "Algorithm/BOJ/BojStep",
     "2024/5월",
-    "2024/4월/resource/imgs/Pasted image 20240423172529.png",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "C++/C++ server/Iteration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "C++/C++ server/Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "C++/C++ server/Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "C++/C++ server/Iteration.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "50bc32ef8361e1c7",
   "lastOpenFiles": [
+    "C++/C++ server",
     "old/Git/temp.md",
-    "무제 파일.md",
+    "C++/C++ server/Iteration.md",
     "old/Linux/명령어.md",
     "Linux/자주쓰는 명령어.md",
     "old/Vim/config.md",
@@ -209,7 +210,6 @@
     "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-08.md",
     "2024/4월/2024-04-09.md",
-    "2024/4월/2024-04-11.md",
     "Tools",
     "2024/5월/resource/imgs/Pasted image 20240520173855.png",
     "Algorithm/Graph",

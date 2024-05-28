@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024/5월/2024-05-28.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -166,9 +167,11 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
-    "2024/5월/2024-05-27.md",
-    "2024/5월/2024-05-28.md",
+    "2024/5월/resource/imgs/Pasted image 20240528150522.png",
+    "2024/5월/resource/imgs/Pasted image 20240528150438.png",
     "2024/5월/2024-05-23.md",
+    "2024/5월/2024-05-28.md",
+    "2024/5월/2024-05-27.md",
     "Linux/ms.md",
     "Linux/resource/imgs/Pasted image 20240527170625.png",
     "Linux/resource/imgs",
@@ -194,7 +197,6 @@
     "2024/4월/2024-04-29.md",
     "2024/4월/2024-04-30.md",
     "2024/5월/2024-05-02.md",
-    "2024/5월/2024-05-03.md",
     "Tools",
     "2024/5월/resource/imgs/Pasted image 20240520173855.png",
     "Algorithm/Graph",
@@ -211,7 +213,6 @@
     "Algorithm/BOJ/BojStep",
     "2024/5월",
     "2024/4월/resource/imgs/Pasted image 20240423172529.png",
-    "Algorithm/resource/imgs/Pasted image 20240422135431.png",
     "old/swExpertAcademy/self_study_book_1/무제 파일 1.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일.canvas",
     "old/swExpertAcademy/self_study_book_1/무제 파일 2.canvas",

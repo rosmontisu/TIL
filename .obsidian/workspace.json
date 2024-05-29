@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024/5월/2024-05-29.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BinarySearch",
+                "query": "tag:#wpf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "50bc32ef8361e1c7",
+  "active": "6bb514420d048ac2",
   "lastOpenFiles": [
     "2024/5월/resource/imgs/Pasted image 20240529172141.png",
     "2024/5월/resource/imgs/Pasted image 20240529172133.png",

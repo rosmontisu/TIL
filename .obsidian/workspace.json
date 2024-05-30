@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024/5월/2024-05-30.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -177,7 +178,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "50bc32ef8361e1c7",
+  "active": "192218159e234ab1",
   "lastOpenFiles": [
     "2024/5월/2024-05-29.md",
     "2024/5월/2024-05-30.md",

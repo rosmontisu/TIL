@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-31.md",
-                "mode": "source",
+                "file": "Linux/ms.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-31.md",
+                "file": "Linux/ms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-31.md",
+                "file": "Linux/ms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-31.md"
+                "file": "Linux/ms.md"
               }
             }
           },
@@ -180,8 +179,11 @@
   },
   "active": "50bc32ef8361e1c7",
   "lastOpenFiles": [
-    "old/Git/temp.md",
+    "Linux/resource/imgs/Pasted image 20240531194644.png",
+    "Linux/resource/imgs/Pasted image 20240531194602.png",
+    "Linux/자주쓰는 명령어.md",
     "2024/5월/2024-05-31.md",
+    "old/Git/temp.md",
     "2024/5월/2024-05-29.md",
     "2024/5월/2024-05-30.md",
     "SmartRosmontis/wpf 관련.md",
@@ -207,8 +209,6 @@
     "2024/4월/2024-04-24.md",
     "2024/4월/2024-04-25.md",
     "2024/4월/2024-04-30.md",
-    "2024/4월/2024-04-26.md",
-    "2024/4월/2024-04-29.md",
     "C++/C++ server",
     "2024/5월/resource/imgs/Pasted image 20240528150522.png",
     "2024/5월/resource/imgs/Pasted image 20240528150438.png",
@@ -220,7 +220,6 @@
     "Algorithm/Graph",
     "Algorithm/resource/imgs/Pasted image 20240514171611.png",
     "2024/5월/resource/imgs/Pasted image 20240508173523.png",
-    "2024/5월/resource/imgs/Pasted image 20240508172929.png",
     "2024/5월/resource/imgs",
     "2024/5월/resource",
     "Algorithm/Sort",

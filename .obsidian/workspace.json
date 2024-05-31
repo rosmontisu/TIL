@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-30.md",
-                "mode": "preview",
+                "file": "2024/5월/2024-05-31.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-30.md",
+                "file": "2024/5월/2024-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-30.md",
+                "file": "2024/5월/2024-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-30.md"
+                "file": "2024/5월/2024-05-31.md"
               }
             }
           },
@@ -178,8 +178,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "192218159e234ab1",
+  "active": "50bc32ef8361e1c7",
   "lastOpenFiles": [
+    "old/Git/temp.md",
+    "2024/5월/2024-05-31.md",
     "2024/5월/2024-05-29.md",
     "2024/5월/2024-05-30.md",
     "SmartRosmontis/wpf 관련.md",
@@ -207,8 +209,6 @@
     "2024/4월/2024-04-30.md",
     "2024/4월/2024-04-26.md",
     "2024/4월/2024-04-29.md",
-    "2024/5월/2024-05-10.md",
-    "2024/5월/2024-05-08.md",
     "C++/C++ server",
     "2024/5월/resource/imgs/Pasted image 20240528150522.png",
     "2024/5월/resource/imgs/Pasted image 20240528150438.png",

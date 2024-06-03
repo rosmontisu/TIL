@@ -17,3 +17,6 @@
 - ![[Pasted image 20240531194602.png]]
 - df -i (I-node 의 수를 확인)
 - ![[Pasted image 20240531194644.png]]
+
+#### A
+- 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-06-03.md",
+                "file": "Linux/ms.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f9f3aa0d37e2609f",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-06-03.md",
+                "file": "Linux/ms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-06-03.md",
+                "file": "Linux/ms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-06-03.md"
+                "file": "Linux/ms.md"
               }
             }
           },
@@ -179,16 +180,16 @@
   },
   "active": "50bc32ef8361e1c7",
   "lastOpenFiles": [
-    "Linux/ms.md",
+    "Linux/자주쓰는 명령어.md",
+    "SmartRosmontis/wpf 관련.md",
     "2024/5월/2024-06-03.md",
+    "Linux/ms.md",
     "Linux/resource/imgs/Pasted image 20240531194644.png",
     "Linux/resource/imgs/Pasted image 20240531194602.png",
-    "Linux/자주쓰는 명령어.md",
     "2024/5월/2024-05-31.md",
     "old/Git/temp.md",
     "2024/5월/2024-05-29.md",
     "2024/5월/2024-05-30.md",
-    "SmartRosmontis/wpf 관련.md",
     "SmartRosmontis/rosmontis 외부 링크.md",
     "2024/5월/2024-05-14.md",
     "2024/5월/2024-05-16.md",

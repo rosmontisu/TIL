@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/ms.md",
-                "mode": "preview",
+                "file": "2024/5월/2024-06-03.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/ms.md",
+                "file": "2024/5월/2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/ms.md",
+                "file": "2024/5월/2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/ms.md"
+                "file": "2024/5월/2024-06-03.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "50bc32ef8361e1c7",
   "lastOpenFiles": [
+    "Linux/ms.md",
+    "2024/5월/2024-06-03.md",
     "Linux/resource/imgs/Pasted image 20240531194644.png",
     "Linux/resource/imgs/Pasted image 20240531194602.png",
     "Linux/자주쓰는 명령어.md",
@@ -208,7 +210,6 @@
     "2024/4월/2024-04-23.md",
     "2024/4월/2024-04-24.md",
     "2024/4월/2024-04-25.md",
-    "2024/4월/2024-04-30.md",
     "C++/C++ server",
     "2024/5월/resource/imgs/Pasted image 20240528150522.png",
     "2024/5월/resource/imgs/Pasted image 20240528150438.png",
@@ -219,7 +220,6 @@
     "2024/5월/resource/imgs/Pasted image 20240520173855.png",
     "Algorithm/Graph",
     "Algorithm/resource/imgs/Pasted image 20240514171611.png",
-    "2024/5월/resource/imgs/Pasted image 20240508173523.png",
     "2024/5월/resource/imgs",
     "2024/5월/resource",
     "Algorithm/Sort",

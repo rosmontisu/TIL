@@ -1,5 +1,5 @@
 {
-  "commitMessage": "obsidian backup: {{date}}",
+  "commitMessage": "TIL obsidian backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 1,
   "autoPushInterval": 5,

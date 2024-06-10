@@ -1,6 +1,6 @@
 {
-  "commitMessage": "TIL obsidian backup: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitMessage": "TIL : {{hostname}} - {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm",
   "autoSaveInterval": 1,
   "autoPushInterval": 5,
   "autoPullInterval": 10,
@@ -9,7 +9,7 @@
   "pullBeforePush": true,
   "disablePopups": false,
   "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "obsidian backup: {{date}}"
+  "autoCommitMessage": "TIL : {{hostname}} - {{date}}"
 }

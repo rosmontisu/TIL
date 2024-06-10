@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/6월/2024-06-03.md",
+                "file": "2024/5월/2024-06-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/6월/2024-06-03.md",
+                "file": "2024/5월/2024-06-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/6월/2024-06-03.md",
+                "file": "2024/5월/2024-06-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/6월/2024-06-03.md"
+                "file": "2024/5월/2024-06-10.md"
               }
             }
           },
@@ -177,12 +177,13 @@
   },
   "active": "b2dc9568c08c172d",
   "lastOpenFiles": [
+    "2024/6월/2024-06-03.md",
+    "2024/5월/2024-06-10.md",
     "old/Git/temp.md",
     "2024/6월",
     "Linux/ms.md",
     "Linux/자주쓰는 명령어.md",
     "SmartRosmontis/wpf 관련.md",
-    "2024/6월/2024-06-03.md",
     "Linux/resource/imgs/Pasted image 20240531194644.png",
     "Linux/resource/imgs/Pasted image 20240531194602.png",
     "2024/5월/2024-05-31.md",

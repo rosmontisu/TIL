@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/6월/2024-06-10.md",
-                "mode": "preview",
+                "file": "2024/6월/2024-06-12.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/6월/2024-06-10.md",
+                "file": "2024/6월/2024-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/6월/2024-06-10.md",
+                "file": "2024/6월/2024-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/6월/2024-06-10.md"
+                "file": "2024/6월/2024-06-12.md"
               }
             }
           },
@@ -154,19 +154,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "da460abc456d700b",
   "lastOpenFiles": [
-    "2024/5월/2024-05-14.md",
+    "새 텍스트 문서.txt",
+    "2024/6월/2024-06-11.md",
+    "2024/6월/2024-06-12.md",
+    "old/swExpertAcademy/self_study_book_1/3_sum_of_subset.md",
     "2024/6월/2024-06-10.md",
+    "2024/5월/2024-05-14.md",
     "2024/6월/2024-06-03.md",
     "old/Git/temp.md",
     "2024/6월",
@@ -193,10 +197,6 @@
     "2024/5월/resource/imgs/Pasted image 20240528161715.png",
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-12.md",
-    "2024/4월/2024-04-11.md",
-    "2024/4월/2024-04-09.md",
-    "2024/4월/2024-04-23.md",
-    "2024/4월/2024-04-24.md",
     "C++/C++ server",
     "2024/5월/resource/imgs/Pasted image 20240528150522.png",
     "2024/5월/resource/imgs/Pasted image 20240528150438.png",

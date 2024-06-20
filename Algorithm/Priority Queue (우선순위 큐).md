@@ -19,11 +19,12 @@
 2. size > 0이면 return heap[1];로 최상층을 전달한다.
 
 - pop() / 반환이 void일때로 가정할때 구현        
--- root를 제거하고, 가장 하단의 vertex를 root로 올린 후 구현한다.    
+	- root를 제거하고, 가장 하단의 vertex를 root로 올린 후 구현한다.    
 1. heap[1] = heap[size] // root에 최하단 vertex 올리기
 2. size--; // size줄이기 - 실제 구현시 1번과 통합 가능합니다.
--- 이분트리이므로 왼쪽 자식과 오른쪽 자식을 구분해서, 더 작은 자식과 부모간의 자리를 교환한다. 
-3. minChild = lc // 임시 초기화 
+	- 이분트리이므로 왼쪽 자식과 오른쪽 자식을 구분해서, 더 작은 자식과 부모간의 자리를 교환한다. 
+	
+1. minChild = lc // 임시 초기화 
 3-1. lc = cur * 2, rc = cur * 2 + 1 // 왼쪽 오른쪽 자식 설정
 3-2. if (lc > rc) minChild = rc // 양쪽 자식 크기 비교 후, minChild 재지정
 3-3. if (heap[cur] > heap[minChild]) swap // 자식이 더 작다면 swap후 계속 반복    

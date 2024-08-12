@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "1acf0f3fd69208e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c3d2f3d2768fcaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb2c1e8cae930391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024/8월/2024-08-12.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10734d0a118d1b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe0b356bd8ac5c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147fb33edbfab5bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e047646ae2146688",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af6b060524b1fd07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6809224a9a07a1c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a50ed41e88c582c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045e6066ed5ab49c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024/8월/2024-08-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40d56141a3f65bef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024/8월/2024-08-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10fc83cbe8a3a2aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5500a84642370f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024/8월/2024-08-12.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "eb2c1e8cae930391",
+  "lastOpenFiles": [
+    "2024/7월/2024-07-30.md",
+    "2024/8월/2024-08-12.md",
+    "2024/7월/2024-08-12.md",
+    "2024/5월/2024-05-10.md",
+    "2024/5월/2024-05-13.md",
+    "2024/5월/2024-05-14.md",
+    "2024/5월/2024-05-16.md",
+    "2024/5월/2024-05-20.md",
+    "2024/5월/2024-05-21.md",
+    "2024/5월/2024-05-22.md",
+    "2024/5월/2024-05-23.md",
+    "2024/5월/2024-05-27.md",
+    "2024/5월/2024-05-28.md",
+    "2024/5월/2024-05-29.md",
+    "2024/5월/2024-05-30.md",
+    "2024/5월/2024-05-31.md",
+    "2024/6월/2024-06-26.md",
+    "2024/6월/2024-06-27.md",
+    "2024/6월/2024-06-28.md",
+    "2024/6월/2024-06-25.md",
+    "2024/6월/2024-06-23.md",
+    "2024/6월/2024-06-21.md",
+    "2024/6월/2024-06-19.md",
+    "2024/6월/2024-06-17.md",
+    "2024/6월/2024-06-14.md",
+    "2024/6월/2024-06-10.md",
+    "2024/8월",
+    "GameServer/Part1-C++",
+    "윈도우즈 시스템",
+    "Renpy/attachments/Pasted image 20240724173532.png",
+    "Renpy/attachments",
+    "Renpy/기초 강의",
+    "Pasted image 20240621130137.png",
+    "Pasted image 20240614162119.png",
+    "Csharp/Server/attachments/Pasted image 20240710132637.png",
+    "Csharp/Server/attachments/Pasted image 20240710143533.png",
+    "Csharp/Server/attachments",
+    "Pasted image 20240710143455.png",
+    "Renpy",
+    "Csharp/Server",
+    "Unity",
+    "무제 폴더",
+    "Pasted image 20240614150637.png"
+  ]
+}

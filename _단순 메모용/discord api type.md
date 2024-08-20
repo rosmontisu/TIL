@@ -1,4 +1,4 @@
-- SmartRosmontis에 
+- SmartRosmontis에 deploy-commands.js 코드를 보면 다음과 같은 방식으로 '/' command를 정의하고 있다.
 ```json
   {
     name: "이미지생성",
@@ -14,7 +14,7 @@
     ]
   },
 ```
-
+- 이때, type 변수의 값은 discord api docs에 나와있는데.. 아래와 같다.
 - **1 SUB_COMMAND**
     - 하위 명령어를 나타냅니다. 이 옵션은 명령어에 대해 하위 명령어를 정의할 때 사용됩니다.
     - 예: `/image create`에서 `create`가 SUB_COMMAND가 됩니다.

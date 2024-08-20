@@ -1,18 +1,23 @@
 - SmartRosmontis에 deploy-commands.js 코드를 보면 다음과 같은 방식으로 '/' command를 정의하고 있다.
 ```json
-  {
-    name: "이미지생성",
-    type: 1,
-    description: "특정 모델을 사용하여 이미지를 생성합니다.",
-    options: [
-      {
-        name: 'prompt',
-        description: '이미지 생성 프롬프트 입력',
-        type: 3, // STRING type
-        required: true
-      }
-    ]
-  },
+...
+},
+
+ {
+   name: "이미지생성",
+   type: 1,
+   description: "특정 모델을 사용하여 이미지를 생성합니다.",
+   options: [
+     {
+       name: 'prompt',
+       description: '이미지 생성 프롬프트 입력',
+       type: 3, // STRING type
+       required: true
+     }
+   ]
+ },
+ 
+ {...
 ```
 - 이때, type 변수의 값은 discord api docs에 나와있는데.. 아래와 같다.
 - **1 SUB_COMMAND**

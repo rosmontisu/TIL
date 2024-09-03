@@ -22,3 +22,25 @@ static void Main(string[] args)
     Console.WriteLine(a);
 }
 ```
+- out을 이용한 여러개의 값 반환
+```cs
+static void Divide(int a, int b, out int result1, out int result2)
+{
+    // out 은 ref처럼 참조를 한다.
+    result1 = a / b;
+    result2 = a % b;
+}
+
+static void Main(string[] args)
+{
+    int num1 = 10;
+    int num2 = 3;
+
+    int res1;
+    int res2;
+    Divide(num1, num2, out res1, out res2);
+
+    Console.WriteLine(res1);
+    Console.WriteLine(res2);
+}
+```

@@ -14,34 +14,39 @@ namespace CSharp
         Archer = 2,
         Mage = 3
     }
-    class Player
+    class Player : Creature
     {
+        // 플레이어의 속성 (attribute)
+        // 직업, 체력, 공격력
         protected PlayerType _type = PlayerType.None;
-        //#1 _type or m_type 으로 지으면
         protected int _hp = 0;
         protected int _attack = 0;
         
-        // 자식에서 base로 
-        protected Player(PlayerType type)
+        // 자식에서 base로 부모의 생성자를 호출하며 상속받는 문법
+        // 이런식으로 구현하지 않으면?
+        // 자식에서 type이 없는 Player객체를 만들 가능성이 존재함
+        protected Player(PlayerType type) : base(CreatureType.Player)
         {
-            // this._type = type;
-            // #1 내부 변수의 구분이 가능
-            // this를 쓰지 않아도 된다!
             _type = type;
         }
 
+
+        // 플레이어의 메서드
+        // 초기 정보 설정
         public void SetInfo(int hp, int attack)
         {
             this._hp = hp;
             this._attack = attack;
         }
 
+        // 반환 메서드
+        // 직업/체력/공격력/생사여부
         public PlayerType GetPlayerType() { return _type; }
         public int GetHp() { return _hp; }
         public int GetAttack() { return _attack; }
-
         public bool IsDead() { return _hp <= 0; }
 
+        // 피격판정
         public void OnDamaged(int damage) 
         {
             _hp -= damage;
@@ -73,5 +78,4 @@ namespace CSharp
         }
     }
 }
-
 ```

@@ -32,3 +32,38 @@ namespace CSharp
     }
 }
 ```
+
+- 이런식으로 대리자 객체를 만들어서 사용도 가능
+```cs
+static void Main(string[] args)
+{
+    OnClicked onClicked = new OnClicked(TestDelegate);
+    onClicked();
+
+    ButtonPressed(onClicked);
+}
+```
+
+- delegate chain
+- 위 방식처럼 객체화 시킬때의 장점은, 대리자 체이닝이 가능
+	- 여러개의 메서드를 참조 (연결) 
+```cs
+static int TestDelegate()
+{
+    Console.WriteLine("Hello Delegate");
+    return 0;
+}
+static int TestDelegate2()
+{
+    Console.WriteLine("Hello Delegate 2");
+    return 0;
+}
+
+static void Main(string[] args)
+{
+    OnClicked onClicked = new OnClicked(TestDelegate);
+    onClicked += TestDelegate2;
+
+    ButtonPressed(onClicked);
+}
+```

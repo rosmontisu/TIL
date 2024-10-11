@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "1acf0f3fd69208e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c3d2f3d2768fcaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f908d026684b5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10734d0a118d1b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe0b356bd8ac5c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147fb33edbfab5bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e047646ae2146688",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af6b060524b1fd07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "6809224a9a07a1c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a50ed41e88c582c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045e6066ed5ab49c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40d56141a3f65bef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10fc83cbe8a3a2aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5500a84642370f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4f908d026684b5af",
+  "lastOpenFiles": [
+    "Csharp/서버 1강/챕터3 자료구조/배열.md",
+    "Csharp/4. Delegate.md",
+    "Csharp/서버 4강/2 컴파일러 최적화.md",
+    "Csharp/2. Interface.md",
+    "Csharp/attachments/Pasted image 20241010143156.png",
+    "Csharp/attachments",
+    "Algorithm/Binary Search (이분탐색).md",
+    "Algorithm/Priority Queue (우선순위 큐).md",
+    "옵시디언 세팅도 깃에 올리죠.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Csharp/서버 3강/3파트 유니티/챕터4 Prefab/ResourceManager.md",
+    "Csharp/무제 폴더",
+    "_단순 메모용/Untitled.md",
+    "Csharp/서버 3강/3파트 유니티/챕터4 Prefab",
+    "Csharp/서버/서버 3강/3파트 유니티/챕터3 Transform/6. InputManager.md",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴/attachments/Pasted image 20240913150752.png",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/1. 컴포넌트 패턴/update 안에 몰아두지 않기.md",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/2. 매니저 만들기/GameObject.Find().md",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/1. 컴포넌트 패턴/각 기능별 부품을 합친다는 개념.md",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴/4..md",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴/2. 개선.md",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴/3. 프로퍼티, NULL처리까지.md",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴/attachments",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴/1. static와 this를 이용.md",
+    "Csharp/서버 1강/챕터2 OOP/resource/imgs/Pasted image 20240910174947.png",
+    "Csharp/서버 1강/챕터2 OOP/resource/imgs/Pasted image 20240910174932.png",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/attachments/Pasted image 20240919152920.png",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/attachments/Pasted image 20240919152502.png",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/attachments/Pasted image 20240919152437.png",
+    "Csharp/서버 1강/챕터2 OOP/attachments/Pasted image 20240906170308.png",
+    "Csharp/서버 1강/챕터2 OOP/attachments/Pasted image 20240906170304.png",
+    "Csharp/서버 1강/챕터2 OOP/attachments/Pasted image 20240906164541.png",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/2. 매니저 만들기",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/1. 컴포넌트 패턴",
+    "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴",
+    "Csharp/서버 1강/챕터2 OOP/resource/imgs",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/6. InputManager.md",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/attachments",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/4. Rotation.md",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/3. Vector.md",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/0. 스크립트 템플릿 수정.md",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/2. Positioin.md",
+    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/1. Player.md",
+    "Csharp/서버 1강/챕터2 OOP/attachments",
+    "Csharp/서버 1강/챕터2 OOP/8-1. sealed.md"
+  ]
+}

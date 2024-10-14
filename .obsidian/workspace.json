@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
+                "file": "Csharp/2. Interface.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 262.5
   },
   "right": {
     "id": "6809224a9a07a1c0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
+                "file": "Csharp/2. Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
+                "file": "Csharp/2. Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md"
+                "file": "Csharp/2. Interface.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4f908d026684b5af",
   "lastOpenFiles": [
+    "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
     "Csharp/서버 1강/챕터3 자료구조/배열.md",
     "Csharp/4. Delegate.md",
     "Csharp/서버 4강/2 컴파일러 최적화.md",
@@ -192,7 +193,6 @@
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/0. 스크립트 템플릿 수정.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/2. Positioin.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/1. Player.md",
-    "Csharp/서버 1강/챕터2 OOP/attachments",
-    "Csharp/서버 1강/챕터2 OOP/8-1. sealed.md"
+    "Csharp/서버 1강/챕터2 OOP/attachments"
   ]
 }

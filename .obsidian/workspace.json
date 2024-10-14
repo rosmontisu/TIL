@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/서버 1강/챕터1 기초문법/ref, out.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48e8a1417e87765f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Csharp/4. Delegate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Csharp/4. Delegate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Csharp/4. Delegate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Csharp/4. Delegate.md"
               }
             }
           }
@@ -171,8 +159,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "48e8a1417e87765f",
+  "active": "a9cbc28a7c7da0c4",
   "lastOpenFiles": [
+    "Csharp/3. Property.md",
+    "Unity/Attribute/SerializeField.md",
+    "README.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "옵시디언 세팅도 깃에 올리죠.md",
     "Csharp/서버 1강/챕터1 기초문법/ref, out.md",
     "conflict-files-obsidian-git.md",
     "Csharp/2. Interface.md",
@@ -184,9 +178,6 @@
     "Csharp/attachments",
     "Algorithm/Binary Search (이분탐색).md",
     "Algorithm/Priority Queue (우선순위 큐).md",
-    "옵시디언 세팅도 깃에 올리죠.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "Csharp/서버 3강/3파트 유니티/챕터4 Prefab/ResourceManager.md",
     "Csharp/무제 폴더",
     "_단순 메모용/Untitled.md",
@@ -215,9 +206,6 @@
     "Csharp/서버 1강/챕터2 OOP/resource/imgs",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/6. InputManager.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/attachments",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/4. Rotation.md",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/3. Vector.md",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/0. 스크립트 템플릿 수정.md",
     "Csharp/서버 1강/챕터2 OOP/attachments"
   ]
 }

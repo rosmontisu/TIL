@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9cbc28a7c7da0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/서버 1강/챕터1 기초문법/ref, out.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48e8a1417e87765f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/2. Interface.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/2. Interface.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/2. Interface.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,13 +171,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4f908d026684b5af",
+  "active": "48e8a1417e87765f",
   "lastOpenFiles": [
+    "Csharp/서버 1강/챕터1 기초문법/ref, out.md",
+    "conflict-files-obsidian-git.md",
+    "Csharp/2. Interface.md",
     "Csharp/서버 1강/챕터1 기초문법/디버그 팁.md",
     "Csharp/서버 1강/챕터3 자료구조/배열.md",
     "Csharp/4. Delegate.md",
     "Csharp/서버 4강/2 컴파일러 최적화.md",
-    "Csharp/2. Interface.md",
     "Csharp/attachments/Pasted image 20241010143156.png",
     "Csharp/attachments",
     "Algorithm/Binary Search (이분탐색).md",
@@ -191,8 +218,6 @@
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/4. Rotation.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/3. Vector.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/0. 스크립트 템플릿 수정.md",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/2. Positioin.md",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/1. Player.md",
     "Csharp/서버 1강/챕터2 OOP/attachments"
   ]
 }

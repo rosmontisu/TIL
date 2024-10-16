@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41552314fec3eefe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/4. Delegate.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/4. Delegate.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/4. Delegate.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -159,15 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c18786fad633e601",
+  "active": "41552314fec3eefe",
   "lastOpenFiles": [
+    "Csharp/4. Delegate.md",
+    "conflict-files-obsidian-git.md",
+    "Csharp/3. Property.md",
     "Csharp/2. Interface.md",
     "_단순 메모용/Untitled.md",
     "Csharp/서버 3강/3파트 유니티/챕터4 Prefab/ResourceManager.md",
     "Csharp/서버 3강/3파트 유니티/챕터4 Prefab",
     "Csharp/attachments/Pasted image 20241010143156.png",
     "Csharp/attachments",
-    "Csharp/4. Delegate.md",
     "Untitled 1.md",
     "_단순 메모용/왜 괄호가 없지.md",
     "Csharp/서버 4강/4 메모리 배리어.md",
@@ -199,8 +213,6 @@
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/6. InputManager.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/attachments",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/4. Rotation.md",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/2. Positioin.md",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/1. Player.md",
     "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/2. 매니저 만들기",
     "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴",
     "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/1. 컴포넌트 패턴",

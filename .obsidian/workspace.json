@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/4. Delegate.md",
-                "mode": "source",
+                "file": "Csharp/5. Action.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/4. Delegate.md",
+                "file": "Csharp/5. Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/4. Delegate.md",
+                "file": "Csharp/5. Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/4. Delegate.md"
+                "file": "Csharp/5. Action.md"
               }
             }
           }
@@ -161,10 +161,11 @@
   },
   "active": "c18786fad633e601",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Csharp/2. Interface.md",
     "Csharp/4. Delegate.md",
     "Csharp/3. Property.md",
-    "Csharp/2. Interface.md",
+    "Csharp/5. Action.md",
+    "conflict-files-obsidian-git.md",
     "_단순 메모용/Untitled.md",
     "Csharp/서버 3강/3파트 유니티/챕터4 Prefab/ResourceManager.md",
     "Csharp/서버 3강/3파트 유니티/챕터4 Prefab",
@@ -200,7 +201,6 @@
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/3. Vector.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/6. InputManager.md",
     "Csharp/서버 3강/3파트 유니티/챕터3 Transform/attachments",
-    "Csharp/서버 3강/3파트 유니티/챕터3 Transform/4. Rotation.md",
     "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/2. 매니저 만들기",
     "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/3. 싱글톤 패턴",
     "Csharp/서버 3강/3파트 유니티/챕터1,2 유니티 기초/1. 컴포넌트 패턴",

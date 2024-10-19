@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/5월/2024-05-02.md",
+                "file": "Csharp/6. Lambda.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-05-02"
+              "title": "6. Lambda"
             }
           }
         ],
@@ -191,8 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7698467041f40cab",
+  "active": "27c6c976519415ab",
   "lastOpenFiles": [
+    "Csharp/5. Event.md",
+    "Csharp/6. Lambda.md",
+    "Csharp/서버 4강/5 Interlocked.md",
+    "2024/5월/2024-05-02.md",
     "2024/5월/2024-05-05.md",
     "2024/5월/2024-05-07.md",
     "2024/5월/2024-05-08.md",
@@ -215,10 +219,6 @@
     "2024/6월/2024-06-17.md",
     "2024/6월/2024-06-19.md",
     "2024/6월/2024-06-21.md",
-    "2024/6월/2024-06-23.md",
-    "2024/6월/2024-06-25.md",
-    "2024/6월/2024-06-26.md",
-    "2024/6월/2024-06-27.md",
     "Csharp/서버 3강/3파트 유니티/챕터4 Prefab",
     "Csharp/attachments/Pasted image 20241010143156.png",
     "Csharp/attachments",

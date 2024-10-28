@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renpy/가능한거/notify.md",
-                "mode": "preview",
+                "file": "Renpy/프로젝트정리/l2dTest.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notify"
+              "title": "l2dTest"
             }
           }
         ]
@@ -165,6 +165,7 @@
   "active": "ba6fcb284fea2aa4",
   "lastOpenFiles": [
     "Renpy/프로젝트정리/RenpyStudy2.md",
+    "Renpy/프로젝트정리/l2dTest.md",
     "Renpy/가능한거/notify.md",
     "Renpy/가능한거",
     "Renpy/데이터.md",
@@ -195,7 +196,6 @@
     "Csharp/6. Lambda.md",
     "Network/tcp 송수신 원리.md",
     "Network",
-    "Csharp/5. Event.md",
     "Unity/4 Prefab",
     "Csharp/attachments/Pasted image 20241010143156.png",
     "Csharp/attachments",

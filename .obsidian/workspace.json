@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인프라/SSL.md",
+                "file": "Csharp/1. Generic.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSL"
+              "title": "1. Generic"
             }
           }
         ]
@@ -164,12 +164,19 @@
   },
   "active": "ba6fcb284fea2aa4",
   "lastOpenFiles": [
+    "Csharp/4. Delegate.md",
+    "Csharp/5. Event.md",
+    "Csharp/6. Lambda.md",
+    "Csharp/7. Exception.md",
+    "Csharp/8-2. Attribute.md",
+    "Csharp/8. Reflection.md",
+    "Csharp/9. Nullable.md",
+    "인프라/SSL.md",
     "_단순 메모용/왜 괄호가 없지.md",
     "_단순 메모용/using vs include.md",
     "_단순 메모용/Untitled.md",
     "_단순 메모용/movement.md",
     "_단순 메모용/discord api type.md",
-    "인프라/SSL.md",
     "2024/9월/2024-09-02.md",
     "2024/9월/2024-09-03.md",
     "2024/9월/2024-09-04.md",
@@ -186,15 +193,8 @@
     "Renpy/테스트_프로젝트/l2dTest.md",
     "Renpy/Untitled.md",
     "Renpy/_업무_얀데레",
-    "Renpy/테스트_프로젝트/RenpyStudy2.md",
-    "Renpy/가능한거/notify.md",
     "Renpy/가능한거",
-    "Renpy/데이터.md",
-    "CI-CD/무제 파일.md",
-    "Renpy/동영상/로고 기능.md",
     "Renpy/테스트_프로젝트",
-    "Renpy/동영상/Movie.md",
-    "Renpy/사운드/Fmod.md",
     "Csharp/attachments/Pasted image 20241022114451.png",
     "Csharp/attachments/Pasted image 20241022114046.png",
     "Csharp/attachments/Pasted image 20241022114042.png",

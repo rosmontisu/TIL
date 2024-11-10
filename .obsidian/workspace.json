@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renpy/세이브&로드/세이브 형식.md",
+                "file": "Renpy/세이브&로드/영구 데이터 저장.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "세이브 형식"
+              "title": "영구 데이터 저장"
             }
           }
         ],
@@ -179,23 +179,25 @@
   },
   "active": "4edbb3db3bf26abc",
   "lastOpenFiles": [
+    "Renpy/데이터.md",
+    "Renpy/세이브&로드/영구 데이터 저장.md",
+    "Renpy/배포판 게임 설정들.md",
+    "Renpy/명령어 모음.md",
+    "Renpy/에러 모음.md",
+    "Renpy/세이브&로드/세이브 썸네일 변경.md",
+    "Renpy/유용한 사이트.md",
+    "Renpy/세이브&로드/세이브 형식.md",
     "Renpy/세이브&로드/attachments/Pasted image 20241110050317.png",
     "Renpy/세이브&로드/커스텀 세이브.md",
-    "Renpy/세이브&로드/세이브 형식.md",
     "Renpy/세이브&로드/커스텀 로드.md",
-    "Renpy/유용한 사이트.md",
     "Renpy/세이브&로드/퀵바 조절.md",
     "Renpy/세이브&로드/attachments/Pasted image 20241110030834.png",
     "Renpy/세이브&로드/attachments",
-    "Renpy/배포판 게임 설정들.md",
     "Renpy/scripts.rpy 외부 파일 참조.md",
     "Renpy/세이브&로드",
     "Renpy/Live2D 최적화.md",
     "Renpy/Live2D 사용.md",
     "Renpy/엔진 고치기.md",
-    "Renpy/에러 모음.md",
-    "Renpy/명령어 모음.md",
-    "Renpy/데이터.md",
     "Renpy/테스트_프로젝트/rievegh-master.md",
     "Renpy/테스트_프로젝트/RenpyStudy2.md",
     "Renpy/테스트_프로젝트/l2dTest.md",
@@ -211,7 +213,6 @@
     "Network-실습시리즈/tracert.md",
     "Network-실습시리즈/attachments/Pasted image 20241107081003.png",
     "Network-실습시리즈/attachments",
-    "Network/tcp 송수신 원리.md",
     "Network-실습시리즈",
     "인프라",
     "RpgMV",
@@ -223,7 +224,6 @@
     "Csharp/attachments/Pasted image 20241022114042.png",
     "Network",
     "Csharp/attachments/Pasted image 20241010143156.png",
-    "Csharp/서버 4강/attachments/Pasted image 20240710143533.png",
-    "Csharp/서버 4강/attachments/Pasted image 20240710132637.png"
+    "Csharp/서버 4강/attachments/Pasted image 20240710143533.png"
   ]
 }

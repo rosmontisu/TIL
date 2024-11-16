@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취미/MInecraftServer/룰루라라.md",
+                "file": "Unity/5 충돌/collision.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "룰루라라"
+              "title": "collision"
             }
           }
         ]
@@ -164,8 +164,15 @@
   },
   "active": "4edbb3db3bf26abc",
   "lastOpenFiles": [
-    "Linux/screen.md",
+    "Unity/5 충돌/Raycast.md",
+    "Unity/4 Prefab/ResourceManager.md",
+    "Unity/5 충돌/collision.md",
+    "Unity/5 Collision/Trigger.md",
+    "Unity/5 충돌/attachments/Pasted image 20241116104019.png",
+    "Unity/5 충돌/attachments/Pasted image 20241116104014.png",
+    "Unity/5 충돌/attachments",
     "취미/MInecraftServer/룰루라라.md",
+    "Linux/screen.md",
     "취미/MInecraftServer",
     "Linux/attachments/Pasted image 20241114133510.png",
     "Linux/attachments",
@@ -192,24 +199,17 @@
     "인프라/attachments",
     "인프라/OpenSSL 인증서발급.md",
     "인프라/SSL.md",
-    "Unity/5 Collision/Trigger.md",
-    "Unity/5 Collision/collision.md",
     "Unity/1,2 INFO/2. 매니저 만들기/GameObject.Find().md",
-    "Unity/5 Collision",
+    "Unity/5 충돌",
     "Unity/1,2 INFO/1. 컴포넌트 패턴/각 기능별 부품을 합친다는 개념.md",
     "Unity/1,2 INFO/1. 컴포넌트 패턴/update 안에 몰아두지 않기.md",
-    "README.md",
-    "2024/6월/2024-06-03.md",
     "Untitled",
     "Renpy/세이브&로드/attachments/Pasted image 20241111140005.png",
     "Renpy/세이브&로드/attachments/Pasted image 20241111132440.png",
     "Renpy/세이브&로드/attachments/Pasted image 20241110050317.png",
-    "Renpy/세이브&로드/attachments/Pasted image 20241110030834.png",
     "Renpy/세이브&로드/attachments",
     "Renpy/세이브&로드",
-    "Renpy/attachments/Pasted image 20241110025433.png",
     "Network-실습시리즈/attachments",
-    "Network-실습시리즈",
-    "인프라"
+    "Network-실습시리즈"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/5 충돌/Raycast2.md",
+                "file": "Unity/5 충돌/4.LayerMask.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Raycast2"
+              "title": "4.LayerMask"
             }
           }
         ]
@@ -162,16 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4edbb3db3bf26abc",
+  "active": "7698467041f40cab",
   "lastOpenFiles": [
-    "Unity/5 충돌/Raycast.md",
-    "Unity/5 충돌/Raycast2.md",
-    "Unity/5 충돌/투영.md",
+    "Unity/5 충돌/1.Raycast.md",
+    "Unity/5 충돌/3.Raycast2.md",
+    "Unity/5 충돌/4.LayerMask.md",
+    "Unity/5 충돌/attachments/Pasted image 20241117214944.png",
+    "Unity/5 충돌/2.투영.md",
     "Unity/5 충돌/attachments/Pasted image 20241117164307.png",
     "Unity/5 충돌/attachments/Pasted image 20241117164249.png",
     "Unity/5 충돌/attachments/Pasted image 20241117163951.png",
     "Unity/5 충돌/attachments/Pasted image 20241117163938.png",
-    "Unity/5 충돌/collision.md",
+    "Unity/5 충돌/0.collision.md",
     "Unity/4 Prefab/ResourceManager.md",
     "Unity/5 Collision/Trigger.md",
     "Unity/5 충돌/attachments/Pasted image 20241116104019.png",
@@ -193,7 +195,6 @@
     "2024/5월/2024-05-02.md",
     "_무제 폴더/Pasted image 20240621130137.png",
     "_무제 폴더/Pasted image 20240614162119.png",
-    "_무제 폴더/Pasted image 20240614150637.png",
     "_단순 메모용/왜 괄호가 없지.md",
     "_단순 메모용/discord api type.md",
     "_단순 메모용/movement.md",
@@ -203,8 +204,6 @@
     "취미/SmartRosmontis/rosmontis 외부 링크.md",
     "인프라/attachments",
     "인프라/OpenSSL 인증서발급.md",
-    "인프라/SSL.md",
-    "Unity/1,2 INFO/2. 매니저 만들기/GameObject.Find().md",
     "Unity/5 충돌",
     "Untitled",
     "Renpy/세이브&로드/attachments",

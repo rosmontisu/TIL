@@ -104,5 +104,5 @@ void dfs(int cur) {
 ```
 
 
-## [이진 트리](obsidian://open?vault=TIL&file=Algorithm%2FBinary%20Tree%20(%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC))
+## [이진 트리](obsidian://open?vault=TIL&file=Algorithm%2FGraph%2FBinary%20Tree%20(%EC%9D%B4%EC%A7%84%20%ED%8A%B8%EB%A6%AC)
 - 부모 노드의 자식이 항상 좌-우로 2개인 트리

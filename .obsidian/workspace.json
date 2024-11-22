@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Priority Queue (우선순위 큐).md",
+                "file": "Unity/6 Camera 카메라/1. Camera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Priority Queue (우선순위 큐)"
+              "title": "1. Camera"
             }
           }
         ],
@@ -179,6 +179,7 @@
   },
   "active": "7ed0cf82f99af8a3",
   "lastOpenFiles": [
+    "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Binary Search (이분탐색).md",
     "Algorithm/Graph/Tree (트리).md",
@@ -217,7 +218,6 @@
     "Linux/attachments",
     "Linux/ms.md",
     "Linux/자주쓰는 명령어.md",
-    "Tools/MS Visual Studio.md",
     "_무제 폴더/Pasted image 20240621130137.png",
     "_무제 폴더/Pasted image 20240614162119.png",
     "인프라/attachments",

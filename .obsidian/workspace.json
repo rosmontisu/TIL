@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/6 Camera 카메라/1. Camera.md",
+                "file": "Unity/6 Camera 카메라/1. 카메라 추적.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Camera"
+              "title": "1. 카메라 추적"
             }
           }
         ],
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 250.5
   },
   "right": {
     "id": "5f0614c72cb1f04b",
@@ -179,6 +179,10 @@
   },
   "active": "7ed0cf82f99af8a3",
   "lastOpenFiles": [
+    "Unity/6 Camera 카메라/attachments/Pasted image 20241126193924.png",
+    "Unity/6 Camera 카메라/attachments/Pasted image 20241126174747.png",
+    "Unity/6 Camera 카메라/attachments/Pasted image 20241126174731.png",
+    "Unity/6 Camera 카메라/attachments",
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Binary Search (이분탐색).md",
@@ -193,7 +197,7 @@
     "Renpy/세이브&로드/커스텀 로드.md",
     "Renpy/세이브&로드/퀵바 조절.md",
     "Renpy/가능한거/notify.md",
-    "Unity/6 Camera 카메라/1. Camera.md",
+    "Unity/6 Camera 카메라/1. 카메라 추적.md",
     "Untitled.canvas",
     "Unity/5 Collision 충돌/2. 투영(projection).md",
     "Unity/5 Collision 충돌/3. Raycast2.md",
@@ -217,14 +221,10 @@
     "Linux/attachments/Pasted image 20241114133510.png",
     "Linux/attachments",
     "Linux/ms.md",
-    "Linux/자주쓰는 명령어.md",
-    "_무제 폴더/Pasted image 20240621130137.png",
-    "_무제 폴더/Pasted image 20240614162119.png",
     "인프라/attachments",
     "Unity/5 Collision 충돌",
     "Untitled",
     "Renpy/세이브&로드/attachments",
-    "Renpy/세이브&로드",
-    "Network-실습시리즈/attachments"
+    "Renpy/세이브&로드"
   ]
 }

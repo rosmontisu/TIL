@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Unity/6 Camera 카메라/2. 카메라.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -179,8 +179,9 @@
   },
   "active": "7ed0cf82f99af8a3",
   "lastOpenFiles": [
-    "Unity/6 Camera 카메라/1. 카메라 추적.md",
+    "Renpy/세이브&로드/세이브 카운트 및 팝업.md",
     "Unity/6 Camera 카메라/2. 카메라.md",
+    "Unity/6 Camera 카메라/1. 카메라 추적.md",
     "Csharp/4. Delegate.md",
     "Csharp/5. Event.md",
     "Csharp/3. Property.md",
@@ -204,7 +205,6 @@
     "Algorithm/Graph/BST (Binary Search Tree, 이진 검색 트리).md",
     "Renpy/세이브&로드/세이브 형식.md",
     "Renpy/세이브&로드/세이브 썸네일 변경.md",
-    "Renpy/세이브&로드/세이브 카운트 및 팝업.md",
     "Renpy/세이브&로드/영구 데이터 저장.md",
     "Renpy/세이브&로드/커스텀 세이브.md",
     "Renpy/세이브&로드/커스텀 로드.md",

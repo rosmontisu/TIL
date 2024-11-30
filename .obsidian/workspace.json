@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/6 Camera 카메라/3. 캐릭터 회전&벽 처리.md",
-                "mode": "preview",
+                "file": "책/Real World HTTP/curl.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 캐릭터 회전&벽 처리"
+              "title": "curl"
             }
           }
         ],
@@ -177,15 +177,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7698467041f40cab",
+  "active": "7ed0cf82f99af8a3",
   "lastOpenFiles": [
+    "책/Real World HTTP/wget.md",
+    "책/Real World HTTP/curl.md",
+    "Unity/6 Camera 카메라/3. 캐릭터 회전&벽 처리.md",
+    "책/Real World HTTP",
     "Unity/7 Animation 애니메이션",
     "Unity/6 Camera 카메라/attachments/Pasted image 20241129215029.png",
     "Unity/6 Camera 카메라/2. 마우스로 이동.md",
     "Unity/Attribute/resource/imgs/Pasted image 20240916032450.png",
     "Unity/Attribute/resource/imgs/Pasted image 20240916032602.png",
     "Unity/Attribute/resource/imgs/Pasted image 20240916032608.png",
-    "Unity/6 Camera 카메라/3. 캐릭터 회전&벽 처리.md",
     "Unity/6 Camera 카메라/attachments/Pasted image 20241129214344.png",
     "Unity/6 Camera 카메라/attachments/Pasted image 20241129214317.png",
     "Unity/6 Camera 카메라/1. 카메라 추적.md",
@@ -215,7 +218,6 @@
     "Renpy/세이브&로드/세이브 형식.md",
     "Renpy/세이브&로드/세이브 썸네일 변경.md",
     "Renpy/세이브&로드/영구 데이터 저장.md",
-    "Renpy/세이브&로드/커스텀 세이브.md",
     "Untitled.canvas",
     "Unity/6 Camera 카메라",
     "Unity/5 Collision 충돌/attachments",
@@ -223,8 +225,6 @@
     "Linux/attachments",
     "인프라/attachments",
     "Unity/5 Collision 충돌",
-    "Untitled",
-    "Renpy/세이브&로드/attachments",
-    "Renpy/세이브&로드"
+    "Untitled"
   ]
 }

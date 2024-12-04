@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책/Real World HTTP/1장/WHATWG.md",
-                "mode": "source",
+                "file": "책/Real World HTTP/2강/Go.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WHATWG"
+              "title": "Go"
             }
           }
         ],
@@ -179,8 +179,10 @@
   },
   "active": "7ed0cf82f99af8a3",
   "lastOpenFiles": [
-    "책/Real World HTTP/1장/W3C.md",
     "책/Real World HTTP/1장/WHATWG.md",
+    "책/Real World HTTP/2강/Go.md",
+    "책/Real World HTTP/2강",
+    "책/Real World HTTP/1장/W3C.md",
     "책/Real World HTTP/0장",
     "책/Real World HTTP/1장",
     "책/Real World HTTP/1장/IANA.md",
@@ -219,12 +221,10 @@
     "Algorithm/Priority Queue (우선순위 큐).md",
     "Algorithm/BitMask (비트마스크).md",
     "Algorithm/Binary Search (이분탐색).md",
-    "Algorithm/Graph/Tree (트리).md",
     "Untitled.canvas",
     "Unity/6 Camera 카메라",
     "Unity/5 Collision 충돌/attachments",
     "취미/MInecraftServer",
-    "Linux/attachments",
-    "인프라/attachments"
+    "Linux/attachments"
   ]
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책/Real World HTTP/2강/Go.md",
+                "file": "Renpy/백업용.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Go"
+              "title": "백업용"
             }
           }
         ],
@@ -179,8 +179,18 @@
   },
   "active": "7ed0cf82f99af8a3",
   "lastOpenFiles": [
-    "책/Real World HTTP/1장/WHATWG.md",
+    "Renpy/Live2D 최적화.md",
+    "Renpy/백업용.md",
+    "Renpy/Live2D 사용.md",
+    "Renpy/엔진 고치기.md",
+    "Renpy/유용한 사이트.md",
+    "Renpy/scripts.rpy 외부 파일 참조.md",
+    "Renpy/에러 모음.md",
+    "Renpy/배포판 게임 설정들.md",
+    "Renpy/명령어 모음.md",
+    "Renpy/데이터.md",
     "책/Real World HTTP/2강/Go.md",
+    "책/Real World HTTP/1장/WHATWG.md",
     "책/Real World HTTP/2강",
     "책/Real World HTTP/1장/W3C.md",
     "책/Real World HTTP/0장",
@@ -208,19 +218,9 @@
     "Renpy/세이브&로드/세이브 카운트 및 팝업.md",
     "Csharp/4. Delegate.md",
     "Csharp/5. Event.md",
-    "Csharp/3. Property.md",
-    "Csharp/2. Interface.md",
-    "Csharp/1. Generic.md",
-    "Csharp/9. Nullable.md",
-    "Csharp/8-2. Attribute.md",
-    "Csharp/6. Lambda.md",
-    "Unity/6 Camera 카메라/attachments/2..md",
     "Unity/6 Camera 카메라/attachments/Pasted image 20241126193924.png",
     "Unity/6 Camera 카메라/attachments/Pasted image 20241126174747.png",
     "Unity/6 Camera 카메라/attachments",
-    "Algorithm/Priority Queue (우선순위 큐).md",
-    "Algorithm/BitMask (비트마스크).md",
-    "Algorithm/Binary Search (이분탐색).md",
     "Untitled.canvas",
     "Unity/6 Camera 카메라",
     "Unity/5 Collision 충돌/attachments",

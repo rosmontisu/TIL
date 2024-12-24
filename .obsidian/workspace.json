@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/7 Animation 애니메이션/6. Animation Event.md",
+                "file": "Unity/4 Prefab 프리팹/Managers.cs.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Animation Event"
+              "title": "Managers.cs"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200
   },
   "right": {
     "id": "5f0614c72cb1f04b",
@@ -164,52 +164,52 @@
   },
   "active": "34c67bb75f5aed45",
   "lastOpenFiles": [
+    "Unity/4 Prefab 프리팹/InputManagers.cs.md",
+    "Renpy/명령어 모음.md",
+    "Renpy/데이터.md",
+    "Unity/8 UI/3. Button Event.md",
+    "Unity/4 Prefab 프리팹/Managers.cs.md",
+    "Unity/4 Prefab 프리팹/ResourceManager.md",
+    "Unity/8 UI/attachments/Pasted image 20241225032723.png",
+    "Unity/8 UI/attachments/Pasted image 20241225032634.png",
+    "Unity/8 UI/attachments/Pasted image 20241225020234.png",
+    "Unity/8 UI/2. Rect Transform.md",
+    "Unity/8 UI/attachments/Pasted image 20241225012901.png",
+    "Unity/8 UI/attachments/Pasted image 20241225012818.png",
+    "Unity/8 UI/attachments",
+    "Unity/8 UI/1. UI.md",
+    "Unity/7 Animation 애니메이션/1. 애니메이션 기초/단순한 구현.md",
+    "Unity/8 UI",
+    "Unity/7 Animation 애니메이션/1. 애니메이션 기초/Animation retargeting.md",
+    "Unity/7 Animation 애니메이션/1. 애니메이션 기초/Humanoid.md",
+    "Unity/7 Animation 애니메이션/6. Animation Event.md",
+    "Unity/7 Animation 애니메이션/attachments/Pasted image 20241224080711.png",
+    "Unity/7 Animation 애니메이션/attachments/Pasted image 20241224080652.png",
     "Unity/7 Animation 애니메이션/attachments/Pasted image 20241224071328.png",
     "Unity/7 Animation 애니메이션/attachments/Pasted image 20241224071135.png",
     "Unity/7 Animation 애니메이션/5. KeyFrame Animation.md",
-    "Unity/7 Animation 애니메이션/6. Animation Event.md",
     "Unity/7 Animation 애니메이션/3. State 패턴.md",
     "Unity/7 Animation 애니메이션/attachments/Pasted image 20241224062848.png",
-    "Unity/7 Animation 애니메이션/attachments/Pasted image 20241224062832.png",
     "Unity/7 Animation 애니메이션/4. State Machine.md",
     "Unity/7 Animation 애니메이션/2. Animation Blending.md",
-    "Unity/7 Animation 애니메이션/attachments/Pasted image 20241224053106.png",
     "Renpy/세이브&로드/세이브 카운트 및 팝업.md",
     "Renpy/_렌파이 기본/무제 파일.md",
     "취미/MInecraftServer/룰루라라.md",
     "Renpy/_렌파이 기본",
-    "Unity/7 Animation 애니메이션/attachments/Pasted image 20241210215124.png",
     "Unity/7 Animation 애니메이션/attachments",
-    "Unity/7 Animation 애니메이션/1. 애니메이션 기초/단순한 구현.md",
-    "Unity/7 Animation 애니메이션/1. 애니메이션 기초/Humanoid.md",
-    "Unity/7 Animation 애니메이션/1. 애니메이션 기초/Animation retargeting.md",
     "Unity/6 Camera 카메라/3. 캐릭터 회전&벽 처리.md",
     "Unity/7 Animation 애니메이션/1. 애니메이션 기초.md",
     "Unity/7 Animation 애니메이션/1. 애니메이션 기초",
-    "Unity/7 Animation 애니메이션/1. 애니메이션 기초/attachments/Pasted image 20241210172814.png",
     "Unity/7 Animation 애니메이션/1. 애니메이션 기초/attachments",
     "Renpy/백업용.md",
     "Renpy/Live2D 최적화.md",
     "Renpy/Live2D 사용.md",
     "Renpy/엔진 고치기.md",
     "Renpy/유용한 사이트.md",
-    "Renpy/scripts.rpy 외부 파일 참조.md",
-    "Renpy/에러 모음.md",
-    "Renpy/배포판 게임 설정들.md",
-    "Renpy/명령어 모음.md",
-    "Renpy/데이터.md",
-    "책/Real World HTTP/2강/Go.md",
-    "책/Real World HTTP/1장/WHATWG.md",
     "책/Real World HTTP/2강",
     "책/Real World HTTP/0장",
     "책/Real World HTTP/1장",
     "책/Real World HTTP",
-    "Unity/7 Animation 애니메이션",
-    "Unity/6 Camera 카메라/attachments/Pasted image 20241129215029.png",
-    "Unity/Attribute/resource/imgs/Pasted image 20240916032450.png",
-    "Unity/Attribute/resource/imgs/Pasted image 20240916032602.png",
-    "Unity/Attribute/resource/imgs/Pasted image 20240916032608.png",
-    "Unity/6 Camera 카메라/attachments",
     "Untitled.canvas"
   ]
 }

@@ -1,4 +1,4 @@
-## WBCS3.cpp
+- 코드
 ```cpp
 #inlucde <stdio.h>
 

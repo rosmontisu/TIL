@@ -1,0 +1,1 @@
+- [TIL 2024-08-13](obsidian://open?vault=TIL&file=2024%2F8%EC%9B%94%2F2024-08-13)

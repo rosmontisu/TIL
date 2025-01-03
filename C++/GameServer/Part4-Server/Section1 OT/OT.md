@@ -1,0 +1,13 @@
+- Web Server (aka. HTTP Server)
+	- 테이크 아웃 포장 전문 식당
+	- 손님이 음식을 받아서 떠나면, 그 이후론 연락이 끊긴다.
+	- 질의/응답 형태
+
+- Game Server (aka.TCP Server, Binary Server, Stateful Server)
+	- 일반식당
+	- 서빙 직원이 와서 손님에게 물어볼 수도 있고.
+	- 손님이 추가 주문을 하기도 하고.
+	- 실시간 Interaction이 있다.
+	- 게임 서버는 웹서버에 비해서 정형화되어 있지 않다. 그렇기에 상대적으로 프레임워크의 비중이 약하다.
+	- 음식점 비유법으로 게임서버에서 고려할 점들은?
+	- ![[Pasted image 20240613004342.png]]

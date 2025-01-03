@@ -1,0 +1,1 @@
+[아이콘 트레이/http 통신/프로그램 경로 지정 및 실행](obsidian://open?vault=TIL&file=2024%2F5%EC%9B%94%2F2024-05-29)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Priority Queue (우선순위 큐).md",
-                "mode": "preview",
+                "file": "게임엔진/Unity/8 UI/4-5. UI Manager.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Priority Queue (우선순위 큐)"
+              "title": "4-5. UI Manager"
             }
           }
         ]
@@ -164,6 +164,11 @@
   },
   "active": "34c67bb75f5aed45",
   "lastOpenFiles": [
+    "게임엔진/Unity/8 UI/4-6. UI.md",
+    "게임엔진/Unity/8 UI/4-5. UI Manager.md",
+    "확장 메서드(Extension Method).md",
+    "무제 파일.canvas",
+    "Algorithm/Priority Queue (우선순위 큐).md",
     "2024/4월/2024-04-11.md",
     "2024/4월/2024-04-09.md",
     "2024/4월/2024-04-16.md",
@@ -186,13 +191,8 @@
     "게임엔진/Unity/6 Camera 카메라/2. 마우스로 이동.md",
     "게임엔진/Unity/7 Animation 애니메이션/6. Animation Event.md",
     "게임엔진/Unity/7 Animation 애니메이션/5. KeyFrame Animation.md",
-    "게임엔진/Unity/7 Animation 애니메이션/4. State Machine.md",
-    "Unity/7 Animation 애니메이션/3. State 패턴.md",
-    "Sort Order.md",
-    "게임엔진/Unity/8 UI/4-5. UI Manager.md",
     "attachments/Pasted image 20250103145204.png",
     "attachments",
-    "무제 파일.canvas",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20241228110650.png",
     "게임엔진",
     "Untitled.canvas",

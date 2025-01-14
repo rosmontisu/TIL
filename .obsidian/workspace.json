@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발언어/Csharp/서버 2강/Algorithm종합.md",
-                "mode": "preview",
+                "file": "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm종합"
+              "title": "4-8 인벤토리 실습"
             }
           }
         ]
@@ -164,19 +164,26 @@
   },
   "active": "34c67bb75f5aed45",
   "lastOpenFiles": [
+    "게임엔진/Unity/8 UI/1. UI.md",
+    "게임엔진/Unity/8 UI/2. Rect Transform.md",
+    "게임엔진/Unity/8 UI/3. Button Event.md",
+    "게임엔진/Unity/8 UI/4-1. UI 자동화.md",
+    "게임엔진/Unity/8 UI/4-2. UI 자동화 2.md",
+    "게임엔진/Unity/8 UI/4-3. 이벤트 연동.md",
+    "게임엔진/Unity/8 UI/4-4. 이벤트 정리.md",
+    "게임엔진/Unity/8 UI/4-5. UI Manager.md",
+    "게임엔진/Unity/8 UI/4-6. 매니저 팝업 UI 관리.md",
     "게임엔진/Unity/8 UI/4-7 매니저 Order 관리.md",
+    "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
     "개발언어/Csharp/서버 2강/Algorithm종합.md",
     "개발언어/Csharp/서버 2강",
     "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/4..md",
-    "게임엔진/Unity/8 UI/4-5. UI Manager.md",
     "conflict-files-obsidian-git.md",
     "게임엔진/Unity/8 UI/4-6. UI.md",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250105162402.png",
-    "게임엔진/Unity/8 UI/4-6. 매니저 팝업 UI 관리.md",
     "attachments/Pasted image 20250105162438.png",
     "Raycast Target.md",
     "Sort Order.md",
-    "게임엔진/Unity/8 UI/4-4. 이벤트 정리.md",
     "게임엔진/Unity/7 Animation 애니메이션/6. Animation Event.md",
     "게임엔진/Unity/7 Animation 애니메이션/5. KeyFrame Animation.md",
     "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/3. 프로퍼티, NULL처리까지.md",
@@ -186,13 +193,6 @@
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-12.md",
     "2024/4월/2024-04-06.md",
-    "2024/4월/2024-04-05.md",
-    "Algorithm/Graph/Topological Sorting (위상 정렬).md",
-    "Algorithm/Graph/Tree (트리).md",
-    "Algorithm/Graph/Minimum Spanning Tree (최소 신장 트리).md",
-    "Algorithm/Graph/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
-    "Algorithm/Graph/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/Graph/Binary Tree (이진 트리).md",
     "attachments/Pasted image 20250103145204.png",
     "attachments",
     "무제 파일.canvas",

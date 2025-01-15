@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
+                "file": "게임엔진/Unity/8 UI/4-6. 매니저 팝업 UI 관리.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-8 인벤토리 실습"
+              "title": "4-6. 매니저 팝업 UI 관리"
             }
           }
         ]
@@ -164,6 +164,8 @@
   },
   "active": "34c67bb75f5aed45",
   "lastOpenFiles": [
+    "게임엔진/Unity/8 UI/4-7 매니저 Order 관리.md",
+    "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250114192849.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250114182800.png",
     "게임엔진/Unity/8 UI/1. UI.md",
@@ -175,8 +177,6 @@
     "게임엔진/Unity/8 UI/4-4. 이벤트 정리.md",
     "게임엔진/Unity/8 UI/4-5. UI Manager.md",
     "게임엔진/Unity/8 UI/4-6. 매니저 팝업 UI 관리.md",
-    "게임엔진/Unity/8 UI/4-7 매니저 Order 관리.md",
-    "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
     "개발언어/Csharp/서버 2강/Algorithm종합.md",
     "개발언어/Csharp/서버 2강",
     "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/4..md",
@@ -206,7 +206,6 @@
     "게임엔진/Unity/8 UI/attachments/Pasted image 20241225032634.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20241225020234.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20241225012901.png",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20241225012818.png",
     "게임엔진/Unity/8 UI/attachments",
     "게임엔진/Unity/8 UI",
     "게임엔진/Renpy/_렌파이 기본",

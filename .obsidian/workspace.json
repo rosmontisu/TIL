@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "bee3a3618b39e0d5",
+    "id": "e89cfcddbe6bcc30",
     "type": "split",
     "children": [
       {
-        "id": "84944805c8252d78",
+        "id": "a6a67bad26a565a9",
         "type": "tabs",
         "children": [
           {
-            "id": "34c67bb75f5aed45",
+            "id": "10d8f4a91bc32b75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/3. 프로퍼티, NULL처리까지.md",
-=======
-                "file": "게임엔진/Unity/8 UI/4-6. 매니저 팝업 UI 관리.md",
->>>>>>> 5fe8d469bc8199613c983bbe7dce7dffa4b2ae54
+                "file": "개발언어/Csharp/서버 4강/1 쓰레드 생성.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "3. 프로퍼티, NULL처리까지"
-=======
-              "title": "4-6. 매니저 팝업 UI 관리"
->>>>>>> 5fe8d469bc8199613c983bbe7dce7dffa4b2ae54
+              "title": "1 쓰레드 생성"
             }
           }
         ]
@@ -35,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2b5e22b32d28a3a2",
+    "id": "6cbbafb5b594ca3d",
     "type": "split",
     "children": [
       {
-        "id": "6563c9f760610705",
+        "id": "ffb2c55cd868197e",
         "type": "tabs",
         "children": [
           {
-            "id": "7698467041f40cab",
+            "id": "c6e0fe2529ebff22",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +47,7 @@
             }
           },
           {
-            "id": "097cc85ac084163f",
+            "id": "b92470321607852a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,11 +60,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
-            "id": "c0239fc050717287",
+            "id": "5d8126c1294dd893",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 300
   },
   "right": {
-    "id": "5f0614c72cb1f04b",
+    "id": "b3498c0645919dd2",
     "type": "split",
     "children": [
       {
-        "id": "cf5beb892f59d838",
+        "id": "d6befd80bc012e06",
         "type": "tabs",
         "children": [
           {
-            "id": "db329f616833d31d",
+            "id": "13f46518825e131e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/5월/2024-05-02.md",
+                "file": "개발언어/Csharp/서버 4강/1 쓰레드 생성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-05-02"
+              "title": "1 쓰레드 생성의 백링크"
             }
           },
           {
-            "id": "96f82d5f8c363584",
+            "id": "fa8e32f068194d58",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/5월/2024-05-02.md",
+                "file": "개발언어/Csharp/서버 4강/1 쓰레드 생성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-05-02"
+              "title": "1 쓰레드 생성의 나가는 링크"
             }
           },
           {
-            "id": "0c1126232e6f6394",
+            "id": "3f87cbecc268149b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,15 +134,15 @@
             }
           },
           {
-            "id": "3faada6c1d4cfc33",
+            "id": "f263580302c18ca7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/5월/2024-05-02.md"
+                "file": "개발언어/Csharp/서버 4강/1 쓰레드 생성.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-05-02"
+              "title": "1 쓰레드 생성 개요"
             }
           }
         ]
@@ -170,58 +162,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "34c67bb75f5aed45",
+  "active": "10d8f4a91bc32b75",
   "lastOpenFiles": [
-    "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/2. 개선.md",
-    "개발언어/Csharp/서버 2강/Algorithm종합.md",
-    "게임엔진/Unity/8 UI/4-7 매니저 Order 관리.md",
-    "개발언어/Csharp/서버 2강",
-    "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/4..md",
-    "게임엔진/Unity/8 UI/4-5. UI Manager.md",
-    "conflict-files-obsidian-git.md",
-    "게임엔진/Unity/8 UI/4-6. UI.md",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20250105162402.png",
-    "게임엔진/Unity/8 UI/4-6. 매니저 팝업 UI 관리.md",
-    "attachments/Pasted image 20250105162438.png",
-    "Raycast Target.md",
-    "Sort Order.md",
-    "게임엔진/Unity/8 UI/4-4. 이벤트 정리.md",
-    "게임엔진/Unity/7 Animation 애니메이션/6. Animation Event.md",
-    "게임엔진/Unity/7 Animation 애니메이션/5. KeyFrame Animation.md",
-    "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/3. 프로퍼티, NULL처리까지.md",
-    "Algorithm/Priority Queue (우선순위 큐).md",
-    "2024/4월/2024-04-11.md",
-    "2024/4월/2024-04-09.md",
-    "2024/4월/2024-04-16.md",
-    "2024/4월/2024-04-12.md",
-<<<<<<< HEAD
-    "2024/4월/2024-04-06.md",
-    "2024/4월/2024-04-05.md",
-    "Algorithm/Graph/Topological Sorting (위상 정렬).md",
-    "Algorithm/Graph/Tree (트리).md",
-    "Algorithm/Graph/Minimum Spanning Tree (최소 신장 트리).md",
-    "Algorithm/Graph/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
-    "Algorithm/Graph/BST (Binary Search Tree, 이진 검색 트리).md",
-=======
->>>>>>> 5fe8d469bc8199613c983bbe7dce7dffa4b2ae54
-    "attachments/Pasted image 20250103145204.png",
-    "attachments",
-    "무제 파일.canvas",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20241228110650.png",
-    "게임엔진",
-    "Untitled.canvas",
-    "OS",
-    "개발언어",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20241225032723.png",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20241225032634.png",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20241225020234.png",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20241225012901.png",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20241225012818.png",
-    "게임엔진/Unity/8 UI/attachments",
-    "게임엔진/Unity/8 UI",
-    "게임엔진/Unity/7 Animation 애니메이션/attachments/Pasted image 20241224080711.png",
-    "게임엔진/Renpy/_렌파이 기본",
-    "게임엔진/Unity/7 Animation 애니메이션/attachments",
-    "게임엔진/Unity/7 Animation 애니메이션/1. 애니메이션 기초"
+    "개발언어/Csharp/서버 4강/4 메모리 배리어.md",
+    "개발언어/Csharp/서버 4강/3 캐시 이론.md",
+    "개발언어/Csharp/서버 4강/5 Interlocked.md"
   ]
 }

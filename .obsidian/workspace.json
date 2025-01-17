@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발언어/Csharp/서버 2강/Algorithm종합.md",
+                "file": "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/3. 프로퍼티, NULL처리까지.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algorithm종합"
+              "title": "3. 프로퍼티, NULL처리까지"
             }
           }
         ]
@@ -164,8 +164,9 @@
   },
   "active": "34c67bb75f5aed45",
   "lastOpenFiles": [
-    "게임엔진/Unity/8 UI/4-7 매니저 Order 관리.md",
+    "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/2. 개선.md",
     "개발언어/Csharp/서버 2강/Algorithm종합.md",
+    "게임엔진/Unity/8 UI/4-7 매니저 Order 관리.md",
     "개발언어/Csharp/서버 2강",
     "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/4..md",
     "게임엔진/Unity/8 UI/4-5. UI Manager.md",
@@ -192,7 +193,6 @@
     "Algorithm/Graph/Minimum Spanning Tree (최소 신장 트리).md",
     "Algorithm/Graph/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
     "Algorithm/Graph/BST (Binary Search Tree, 이진 검색 트리).md",
-    "Algorithm/Graph/Binary Tree (이진 트리).md",
     "attachments/Pasted image 20250103145204.png",
     "attachments",
     "무제 파일.canvas",

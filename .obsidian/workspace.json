@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "게임엔진/Unity/1,2 INFO 디자인패턴/3. 싱글톤 패턴/3. 프로퍼티, NULL처리까지.md",
+=======
+                "file": "게임엔진/Unity/8 UI/4-6. 매니저 팝업 UI 관리.md",
+>>>>>>> 5fe8d469bc8199613c983bbe7dce7dffa4b2ae54
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "3. 프로퍼티, NULL처리까지"
+=======
+              "title": "4-6. 매니저 팝업 UI 관리"
+>>>>>>> 5fe8d469bc8199613c983bbe7dce7dffa4b2ae54
             }
           }
         ]
@@ -186,6 +194,7 @@
     "2024/4월/2024-04-09.md",
     "2024/4월/2024-04-16.md",
     "2024/4월/2024-04-12.md",
+<<<<<<< HEAD
     "2024/4월/2024-04-06.md",
     "2024/4월/2024-04-05.md",
     "Algorithm/Graph/Topological Sorting (위상 정렬).md",
@@ -193,6 +202,8 @@
     "Algorithm/Graph/Minimum Spanning Tree (최소 신장 트리).md",
     "Algorithm/Graph/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
     "Algorithm/Graph/BST (Binary Search Tree, 이진 검색 트리).md",
+=======
+>>>>>>> 5fe8d469bc8199613c983bbe7dce7dffa4b2ae54
     "attachments/Pasted image 20250103145204.png",
     "attachments",
     "무제 파일.canvas",

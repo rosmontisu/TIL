@@ -14,11 +14,21 @@
               "type": "markdown",
               "state": {
                 "file": "게임엔진/Unity/8 UI/4-9 정리.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "4-9 정리"
+            }
+          },
+          {
+            "id": "345d59d41368c813",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -164,8 +174,17 @@
   },
   "active": "10d8f4a91bc32b75",
   "lastOpenFiles": [
-    "개발언어/Csharp/서버 4강/1 쓰레드 생성.md",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215237.png",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215225.png",
+    "IndexOf.md",
     "게임엔진/Unity/8 UI/4-9 정리.md",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214440.png",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214301.png",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214101.png",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214041.png",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214024.png",
+    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214015.png",
+    "개발언어/Csharp/서버 4강/1 쓰레드 생성.md",
     "개발언어/Csharp/서버 4강/4 메모리 배리어.md",
     "개발언어/Csharp/서버 4강/3 캐시 이론.md",
     "개발언어/Csharp/서버 4강/5 Interlocked.md"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Binary Search (이분탐색).md",
-                "mode": "preview",
+                "file": "Algorithm/Graph/Minimum Spanning Tree (최소 신장 트리).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Search (이분탐색)"
+              "title": "Minimum Spanning Tree (최소 신장 트리)"
             }
           }
         ]
@@ -164,6 +164,13 @@
   },
   "active": "10d8f4a91bc32b75",
   "lastOpenFiles": [
+    "Algorithm/Graph/LCA (Lowest Common Ancestor, 최소 공통 조상).md",
+    "Algorithm/Graph/Minimum Spanning Tree (최소 신장 트리).md",
+    "Algorithm/Graph/Graph (그래프).md",
+    "Algorithm/Graph/Topological Sorting (위상 정렬).md",
+    "Algorithm/Graph/Tree (트리).md",
+    "Algorithm/Graph/다익스트라.md",
+    "Algorithm/Binary Search (이분탐색).md",
     "개발언어/Csharp/서버 4강/1 쓰레드 생성.md",
     "게임엔진/Unity/8 UI/4-9 정리.md",
     "개발언어/Csharp/서버 4강/4 메모리 배리어.md",

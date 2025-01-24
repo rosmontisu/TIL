@@ -45,8 +45,7 @@
               "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +186,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c6e5cd2aab05dba9",
+  "active": "6150af07fa57145e",
   "lastOpenFiles": [
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215237.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215225.png",

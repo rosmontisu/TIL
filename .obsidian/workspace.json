@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "게임엔진/Unity/8 UI/4-9 정리.md",
-                "mode": "preview",
+                "file": "Algorithm/Data Struct/단조 스택.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4-9 정리"
+              "title": "단조 스택"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "새 탭"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "45c9c49d63b6d1f6",
@@ -186,12 +188,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6150af07fa57145e",
+  "active": "6ab2fa4280c5fe2f",
   "lastOpenFiles": [
+    "게임엔진/Unity/8 UI/4-9 정리.md",
+    "Algorithm/Data Struct/단조 스택.md",
+    "Algorithm/Data Struct",
+    "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215237.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215225.png",
     "IndexOf.md",
-    "게임엔진/Unity/8 UI/4-9 정리.md",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214440.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214301.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214101.png",

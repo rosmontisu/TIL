@@ -28,21 +28,11 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithm/Data Struct/단조 스택.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "단조 스택"
-            }
-          },
-          {
-            "id": "345d59d41368c813",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
             }
           }
         ],
@@ -102,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "45c9c49d63b6d1f6",

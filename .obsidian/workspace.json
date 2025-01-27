@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "그라함 스캔 (Graham Scan).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "45c9c49d63b6d1f6",
@@ -180,6 +179,8 @@
   },
   "active": "6ab2fa4280c5fe2f",
   "lastOpenFiles": [
+    "모노토 체인 (Monotone Chain).md",
+    "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
     "Algorithm/블록 껍질(Convex Hull).md",
     "그라함 스캔 (Graham Scan).md",
     "Algorithm/attachments/Pasted image 20250126223642.png",
@@ -188,7 +189,6 @@
     "Algorithm/Data Struct/단조 스택.md",
     "게임엔진/Unity/8 UI/4-9 정리.md",
     "Algorithm/Data Struct",
-    "게임엔진/Unity/8 UI/4-8 인벤토리 실습.md",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215237.png",
     "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215225.png",
     "IndexOf.md",

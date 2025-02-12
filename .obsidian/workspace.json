@@ -25,12 +25,14 @@
             "id": "995238951176a9ac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "2025/대학교 자료구조 수업.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "대학교 자료구조 수업"
             }
           }
         ],
@@ -178,6 +180,8 @@
   },
   "active": "995238951176a9ac",
   "lastOpenFiles": [
+    "2025/대학교 자료구조 수업.md",
+    "2025",
     "게임엔진/Unity/7 Animation 애니메이션/1. 애니메이션 기초/Humanoid.md",
     "게임엔진/Unity/7 Animation 애니메이션/1. 애니메이션 기초/Animation retargeting.md",
     "게임엔진/Unity/7 Animation 애니메이션/1. 애니메이션 기초/단순한 구현.md",

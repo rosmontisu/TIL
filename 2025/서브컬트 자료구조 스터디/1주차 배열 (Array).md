@@ -66,5 +66,11 @@ void Erase(int arr[], int& size, int pos)
 ```
 
 
-## 3. 백준 연습 문제
-- 백준 단계별로 풀어보기
+## 3. 배열 연습 문제
+- 순수하게 배열만을 사용하는 문제는 많지 않지만...
+- 배열을 응용해서 스택, 큐, 인접행렬(그래프) 등등 다양한 자료구조를 구현 가능하고, 이를 통해 여러 알고리즘 문제 풀이가 가능합니다.
+	
+#### 백준 단계별로 풀어보기 : 1차원 배열, 2차원 배열
+- [개수 세기](https://www.acmicpc.net/problem/10807)
+- [알파벳 개수](https://www.acmicpc.net/problem/10808)
+- [행렬 덧셈](https://www.acmicpc.net/problem/2738)

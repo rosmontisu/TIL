@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 583.5
   },
   "right": {
     "id": "45c9c49d63b6d1f6",
@@ -180,15 +180,15 @@
   },
   "active": "f10bc26d8f5b28f9",
   "lastOpenFiles": [
-    "2025/2학년1학기/네트워크/0. 과목개요.md",
-    "2025/2학년1학기/네트워크/1. 주요 용어들.md",
-    "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
-    "2025/서브컬트 자료구조 스터디/1주차 배열.md",
     "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014634.png",
-    "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014609.png",
     "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014559.png",
     "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014540.png",
     "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014158.png",
+    "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
+    "2025/2학년1학기/네트워크/0. 과목개요.md",
+    "2025/2학년1학기/네트워크/1. 주요 용어들.md",
+    "2025/서브컬트 자료구조 스터디/1주차 배열.md",
+    "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014609.png",
     "2025/서브컬트 자료구조 스터디/attachments",
     "2025/2학년1학기/자료구조/0. 과목개요.md",
     "2025/2학년1학기/네트워크",

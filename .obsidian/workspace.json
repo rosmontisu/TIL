@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "확장 메서드(Extension Method)"
             }
+          },
+          {
+            "id": "53ab5b9e372f3da2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +176,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7879a59b683492ca",
+  "active": "53ab5b9e372f3da2",
   "lastOpenFiles": [
     "게임엔진/Unity/7 Animation 애니메이션/1. 애니메이션 기초/단순한 구현.md",
     "2024/5월/2024-05-28.md",

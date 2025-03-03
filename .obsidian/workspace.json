@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d76f478a02b3c63f",
+        "id": "b309c9f840964ed6",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "7879a59b683492ca",
+            "id": "53ab5b9e372f3da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,6 +22,7 @@
               "title": "1주차 배열 (Array)"
             }
           }
+        ]
         ]
       }
     ],
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 332.5
   },
   "right": {
     "id": "45c9c49d63b6d1f6",
@@ -155,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {

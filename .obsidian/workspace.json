@@ -1,43 +1,63 @@
 {
   "main": {
-    "id": "0d5792dfad993371",
+    "id": "a160b47b49d0c1a4",
     "type": "split",
     "children": [
       {
-        "id": "b309c9f840964ed6",
+        "id": "b79507210baa892e",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 30.65015479876161,
         "children": [
           {
-            "id": "53ab5b9e372f3da2",
+            "id": "10a97f8b329c526b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
-                "mode": "preview",
+                "file": "2025/서브컬트 자료구조 스터디/2주차 연결 리스트 (Linked List).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1주차 배열 (Array)"
+              "title": "2주차 연결 리스트 (Linked List)"
             }
           }
         ]
+      },
+      {
+        "id": "a022b9b67a7e1ca6",
+        "type": "tabs",
+        "dimension": 69.3498452012384,
+        "children": [
+          {
+            "id": "cf0417fe27221503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/서브컬트 자료구조 스터디/3주차 스택 큐 덱 (Stack Queue Deque).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3주차 스택 큐 덱 (Stack Queue Deque)"
+            }
+          }
         ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8447d000df41c913",
+    "id": "96e4c51d7072844f",
     "type": "split",
     "children": [
       {
-        "id": "cb8c8d21baca60ef",
+        "id": "786b06a3cd737585",
         "type": "tabs",
         "children": [
           {
-            "id": "4d80e2422ca6a720",
+            "id": "237b575a2aa0028b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +70,7 @@
             }
           },
           {
-            "id": "8c8a683511a03f6c",
+            "id": "4f3f49bb7cc5490c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +87,7 @@
             }
           },
           {
-            "id": "3c748d7cfb7e32f8",
+            "id": "585c79aad42f8283",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,23 +100,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 200
   },
   "right": {
-    "id": "45c9c49d63b6d1f6",
+    "id": "4b12f7b580742f0b",
     "type": "split",
     "children": [
       {
-        "id": "a226c6cc7f7b633c",
+        "id": "51496a581eeb7132",
         "type": "tabs",
         "children": [
           {
-            "id": "a23bfea617aefd5d",
+            "id": "576b2571c89ba683",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
+                "file": "2025/서브컬트 자료구조 스터디/3주차 스택 큐 덱 (Stack Queue Deque).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +126,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1주차 배열 (Array)"
+              "title": "Backlinks for 3주차 스택 큐 덱 (Stack Queue Deque)"
             }
           },
           {
-            "id": "e53a870dcec9a890",
+            "id": "5411f9dc30b81e28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
+                "file": "2025/서브컬트 자료구조 스터디/3주차 스택 큐 덱 (Stack Queue Deque).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1주차 배열 (Array)"
+              "title": "Outgoing links from 3주차 스택 큐 덱 (Stack Queue Deque)"
             }
           },
           {
-            "id": "1ec36746f3b63675",
+            "id": "c0b68ba360e89fd6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,25 +159,25 @@
             }
           },
           {
-            "id": "8426a59ed801df2c",
+            "id": "770ac258ee21cea0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
+                "file": "2025/서브컬트 자료구조 스터디/3주차 스택 큐 덱 (Stack Queue Deque).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1주차 배열 (Array)"
+              "title": "Outline of 3주차 스택 큐 덱 (Stack Queue Deque)"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -170,52 +190,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7879a59b683492ca",
+  "active": "cf0417fe27221503",
   "lastOpenFiles": [
-    "확장 메서드(Extension Method).md",
-    "게임엔진/Unity/7 Animation 애니메이션/1. 애니메이션 기초/단순한 구현.md",
-    "2024/5월/2024-05-28.md",
-    "2024/5월/2024-05-27.md",
-    "2024/5월/2024-05-23.md",
-    "2024/5월/2024-05-22.md",
-    "2024/5월/2024-05-20.md",
-    "2024/5월/2024-05-16.md",
-    "2024/5월/2024-05-14.md",
-    "2024/5월/2024-05-13.md",
-    "2024/5월/2024-05-10.md",
-    "2024/5월/2024-05-07.md",
-    "2024/5월/2024-05-08.md",
-    "2024/5월/2024-05-05.md",
-    "2024/5월/2024-05-03.md",
-    "2024/5월/2024-05-02.md",
-    "2024/4월/2024-04-30.md",
-    "2024/4월/2024-04-29.md",
-    "2024/4월/2024-04-26.md",
-    "2024/4월/2024-04-25.md",
-    "2024/4월/2024-04-24.md",
-    "2024/4월/2024-04-23.md",
-    "2024/4월/2024-04-11.md",
-    "2024/4월/2024-04-16.md",
-    "2024/5월/2024-05-30.md",
-    "개발언어/C++/GameServer/Part1-C++/포인터 vs 참조.md",
-    "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014634.png",
-    "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014559.png",
-    "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014540.png",
-    "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014158.png",
-    "2025/서브컬트 자료구조 스터디/attachments/Pasted image 20250218014609.png",
-    "2025/서브컬트 자료구조 스터디/attachments",
-    "2025/2학년1학기/네트워크",
-    "2025/2학년1학기",
-    "2025/서브컬트 자료구조 스터디/1주차 배열",
-    "2025/2학년1학기/자료구조",
-    "2025/서브컬트 자료구조 스터디",
-    "2025",
-    "Algorithm/attachments/Pasted image 20250126223642.png",
-    "Algorithm/attachments/Pasted image 20250126223611.png",
-    "Algorithm/attachments",
-    "Algorithm/Data Struct",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215237.png",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118215225.png",
-    "게임엔진/Unity/8 UI/attachments/Pasted image 20250118214440.png"
+    "2025/2학년1학기/네트워크/1. 주요 용어들.md",
+    "2025/2학년1학기/네트워크/0. 과목개요.md",
+    "2025/서브컬트 자료구조 스터디/3주차 스택 큐 덱 (Stack Queue Deque).md",
+    "2025/서브컬트 자료구조 스터디/2주차 연결 리스트 (Linked List).md",
+    "2025/서브컬트 자료구조 스터디/1주차 배열 (Array).md",
+    "Untitled 1.canvas"
   ]
 }
